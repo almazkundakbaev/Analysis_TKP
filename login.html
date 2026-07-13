@@ -52,7 +52,17 @@
     }
 
     function ensureLocalAdmin(users) {
-      if (!users.some((item) => item.login === "123")) {
+      const existingAdmin = users.find((item) => String(item.login).toLowerCase() === "123");
+      if (existingAdmin) {
+        Object.assign(existingAdmin, {
+          fullName: "Тестовый админ",
+          login: "123",
+          password: "123",
+          role: "admin",
+          active: true,
+        });
+        localStorage.setItem(usersKey, JSON.stringify(users));
+      } else {
         users.unshift({
           id: crypto.randomUUID ? crypto.randomUUID() : `user-${Date.now()}`,
           fullName: "Тестовый админ",
@@ -102,7 +112,8 @@
           window.location.href = "./dashboard/projects.html";
           return;
         }
-        if (response.status !== 503) {
+        const localPreviewStatuses = [404, 405, 501, 503];
+        if (!localPreviewStatuses.includes(response.status)) {
           window.alert("Неверный логин или пароль.");
           return;
         }

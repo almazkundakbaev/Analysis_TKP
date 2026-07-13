@@ -34,7 +34,7 @@ $env:OMARTA_ADMIN_NAME="Тестовый админ"
 python server.py
 ```
 
-On startup the server applies `database/schema.sql` and creates the default admin if it does not exist.
+On startup the server applies `database/schema.sql` and creates or synchronizes the configured admin credentials.
 
 ## Deployment
 

@@ -106,21 +106,39 @@ def verify_password(password: str, stored_hash: str) -> bool:
 def ensure_database_schema() -> None:
     if not database_enabled():
         return
+    admin_login = os.environ.get("OMARTA_ADMIN_LOGIN", "123")
+    admin_password = os.environ.get("OMARTA_ADMIN_PASSWORD", "123")
+    admin_name = os.environ.get("OMARTA_ADMIN_NAME", "Тестовый админ")
     schema_path = ROOT / "database" / "schema.sql"
     with db_connect() as conn:
         with conn.cursor() as cur:
             cur.execute(schema_path.read_text(encoding="utf-8"))
-            cur.execute("SELECT id FROM users WHERE login = %s LIMIT 1", (os.environ.get("OMARTA_ADMIN_LOGIN", "123"),))
-            if not cur.fetchone():
+            cur.execute("SELECT id FROM users WHERE lower(login) = lower(%s) LIMIT 1", (admin_login,))
+            existing_admin = cur.fetchone()
+            if existing_admin:
+                cur.execute(
+                    """
+                    UPDATE users
+                    SET full_name = %s,
+                        login = %s,
+                        password_hash = %s,
+                        role = 'admin',
+                        active = true,
+                        updated_at = now()
+                    WHERE id = %s
+                    """,
+                    (admin_name, admin_login, password_hash(admin_password), existing_admin["id"]),
+                )
+            else:
                 cur.execute(
                     """
                     INSERT INTO users (full_name, login, password_hash, role, active)
                     VALUES (%s, %s, %s, 'admin', true)
                     """,
                     (
-                        os.environ.get("OMARTA_ADMIN_NAME", "Тестовый админ"),
-                        os.environ.get("OMARTA_ADMIN_LOGIN", "123"),
-                        password_hash(os.environ.get("OMARTA_ADMIN_PASSWORD", "123")),
+                        admin_name,
+                        admin_login,
+                        password_hash(admin_password),
                     ),
                 )
 
