@@ -100,6 +100,13 @@
       const password = loginPassword.value.trim();
       if (!username || !password) return;
 
+      // GitHub Pages and other static hosting do not run server.py.
+      // Try the browser-stored test account before requesting the optional API.
+      if (localLogin(username, password)) {
+        window.location.href = "./dashboard/projects.html";
+        return;
+      }
+
       try {
         const response = await fetch("./api/auth/login", {
           method: "POST",
@@ -119,11 +126,7 @@
         }
       } catch {}
 
-      if (!localLogin(username, password)) {
-        window.alert("Неверный логин или пароль.");
-        return;
-      }
-      window.location.href = "./dashboard/projects.html";
+      window.alert("Неверный логин или пароль.");
     });
   </script>
 </body>

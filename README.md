@@ -22,6 +22,10 @@ http://127.0.0.1:8000/
 
 Without `DATABASE_URL`, login and projects continue to work in browser `localStorage` for local previews.
 
+The static site can also be published on GitHub Pages without `server.py`. In that mode,
+the test administrator uses login `123` and password `123`; authentication and projects
+are stored only in that browser's `localStorage`.
+
 ## Run With PostgreSQL
 
 Create a database, then set environment variables:
