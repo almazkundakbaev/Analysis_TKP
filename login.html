@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="data:,">
+  <title>Вход | Анализ ТКП</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400..800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./dashboard/vendor/weatherspark.css">
+  <link rel="stylesheet" href="./dashboard/styles.css">
+</head>
+<body class="login-page">
+  <main class="login-shell">
+    <section class="login-panel">
+      <div>
+        <p class="eyebrow">Анализ ТКП</p>
+        <h1>Вход</h1>
+        <p class="muted">Введите логин и пароль, чтобы открыть рабочую область.</p>
+      </div>
+
+      <form id="login-form" class="login-form">
+        <label>
+          <span>Логин</span>
+          <input id="login-name" type="text" autocomplete="username" required>
+        </label>
+        <label>
+          <span>Пароль</span>
+          <input id="login-password" type="password" autocomplete="current-password" required>
+        </label>
+        <button class="primary-button" type="submit">Войти</button>
+      </form>
+    </section>
+  </main>
+
+  <script>
+    const authKey = "omarta_auth_v1";
+    const usersKey = "omarta_users_v1";
+    const form = document.getElementById("login-form");
+    const loginName = document.getElementById("login-name");
+    const loginPassword = document.getElementById("login-password");
+
+    function saveAuth(user, token = "") {
+      localStorage.setItem(authKey, JSON.stringify({
+        token,
+        username: user.login,
+        fullName: user.fullName || user.full_name || user.login,
+        role: user.role || "user",
+        signedInAt: new Date().toISOString(),
+      }));
+    }
+
+    function ensureLocalAdmin(users) {
+      if (!users.some((item) => item.login === "123")) {
+        users.unshift({
+          id: crypto.randomUUID ? crypto.randomUUID() : `user-${Date.now()}`,
+          fullName: "Тестовый админ",
+          login: "123",
+          password: "123",
+          role: "admin",
+          active: true,
+          createdAt: new Date().toISOString(),
+        });
+        localStorage.setItem(usersKey, JSON.stringify(users));
+      }
+    }
+
+    function localLogin(username, password) {
+      let users = [];
+      try {
+        users = JSON.parse(localStorage.getItem(usersKey) || "[]");
+      } catch {
+        users = [];
+      }
+      ensureLocalAdmin(users);
+      const user = users.find((item) => item.login.toLowerCase() === username.toLowerCase() && item.password === password);
+      if (!user || user.active === false) return false;
+      saveAuth(user);
+      return true;
+    }
+
+    if (localStorage.getItem(authKey)) {
+      window.location.href = "./dashboard/projects.html";
+    }
+
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const username = loginName.value.trim();
+      const password = loginPassword.value.trim();
+      if (!username || !password) return;
+
+      try {
+        const response = await fetch("./api/auth/login", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ login: username, password }),
+        });
+        if (response.ok) {
+          const payload = await response.json();
+          saveAuth(payload.user, payload.token);
+          window.location.href = "./dashboard/projects.html";
+          return;
+        }
+        if (response.status !== 503) {
+          window.alert("Неверный логин или пароль.");
+          return;
+        }
+      } catch {}
+
+      if (!localLogin(username, password)) {
+        window.alert("Неверный логин или пароль.");
+        return;
+      }
+      window.location.href = "./dashboard/projects.html";
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,2 @@
+beautifulsoup4==4.14.3
+psycopg[binary]==3.2.13

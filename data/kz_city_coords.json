@@ -1,0 +1,2669 @@
+{
+  "generatedAt": "2026-05-29T11:43:50.226548+00:00",
+  "sourceCatalog": "kz_weather_catalog.json",
+  "cityCount": 266,
+  "resolvedCount": 266,
+  "cities": {
+    "f-dorovka-106167": {
+      "lat": 53.6373094,
+      "lng": 62.6961379,
+      "query": "Fëdorovka, Kazakhstan",
+      "source": "nominatim",
+      "name": "Fëdorovka",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106167"
+    },
+    "tobol-106164": {
+      "lat": 53.0150362,
+      "lng": 63.3610369,
+      "query": "Tobol, Kazakhstan",
+      "source": "nominatim",
+      "name": "Tobol",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106164"
+    },
+    "аркалык-106444": {
+      "lat": 50.253281,
+      "lng": 66.914993,
+      "query": "Аркалык, Kazakhstan",
+      "source": "nominatim",
+      "name": "Аркалык",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106444"
+    },
+    "боровской-106273": {
+      "lat": 53.8058865,
+      "lng": 64.1758398,
+      "query": "Боровской, Kazakhstan",
+      "source": "nominatim",
+      "name": "Боровской",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106273"
+    },
+    "викторовка-106165": {
+      "lat": 52.755051,
+      "lng": 69.114822,
+      "query": "Викторовка, Kazakhstan",
+      "source": "nominatim",
+      "name": "Викторовка",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106165"
+    },
+    "караман-106350": {
+      "lat": 50.206475,
+      "lng": 59.8770639,
+      "query": "Караман, Kazakhstan",
+      "source": "nominatim",
+      "name": "Караман",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106350"
+    },
+    "качар-106168": {
+      "lat": 53.369434,
+      "lng": 62.869267,
+      "query": "Качар, Kazakhstan",
+      "source": "nominatim",
+      "name": "Качар",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106168"
+    },
+    "костанай-106217": {
+      "lat": 53.2146604,
+      "lng": 63.632607,
+      "query": "Костанай, Kazakhstan",
+      "source": "nominatim",
+      "name": "Костанай",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106217"
+    },
+    "кушмурун-106272": {
+      "lat": 52.451801,
+      "lng": 64.615204,
+      "query": "Кушмурун, Kazakhstan",
+      "source": "nominatim",
+      "name": "Кушмурун",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106272"
+    },
+    "лисаковка-106166": {
+      "lat": 52.5130086,
+      "lng": 62.515726,
+      "query": "Лисаковка, Kazakhstan",
+      "source": "nominatim",
+      "name": "Лисаковка",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106166"
+    },
+    "орджоникидзе-106091": {
+      "lat": 52.44194,
+      "lng": 61.743259,
+      "query": "Орджоникидзе, Kazakhstan",
+      "source": "nominatim",
+      "name": "Орджоникидзе",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106091"
+    },
+    "рудный-106216": {
+      "lat": 52.964458,
+      "lng": 63.133488,
+      "query": "Рудный, Kazakhstan",
+      "source": "nominatim",
+      "name": "Рудный",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106216"
+    },
+    "троебратский-106450": {
+      "lat": 54.4366413,
+      "lng": 66.0753045,
+      "query": "Троебратский, Kazakhstan",
+      "source": "nominatim",
+      "name": "Троебратский",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106450"
+    },
+    "тургай-106215": {
+      "lat": 49.39682,
+      "lng": 63.31152,
+      "query": "Тургай, Kazakhstan",
+      "source": "nominatim",
+      "name": "Тургай",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106215"
+    },
+    "ayteke-bi-106162": {
+      "lat": 45.844875,
+      "lng": 62.153023,
+      "query": "Ayteke Bi, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ayteke Bi",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106162"
+    },
+    "belk-l-106346": {
+      "lat": 44.813961,
+      "lng": 65.589195,
+      "query": "Belköl, Kazakhstan",
+      "source": "nominatim",
+      "name": "Belköl",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106346"
+    },
+    "qazaly-106163": {
+      "lat": 45.76255,
+      "lng": 62.101181,
+      "query": "Qazaly, Kazakhstan",
+      "source": "nominatim",
+      "name": "Qazaly",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106163"
+    },
+    "tasb-get-106348": {
+      "lat": 46.6777779,
+      "lng": 61.770965,
+      "query": "Tasböget, Kazakhstan",
+      "source": "nominatim",
+      "name": "Tasböget",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106348"
+    },
+    "terenozek-106271": {
+      "lat": 42.979687,
+      "lng": 72.068489,
+      "query": "Terenozek, Kazakhstan",
+      "source": "nominatim",
+      "name": "Terenozek",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106271"
+    },
+    "аральск-106087": {
+      "lat": 46.797985,
+      "lng": 61.661221,
+      "query": "Аральск, Kazakhstan",
+      "source": "nominatim",
+      "name": "Аральск",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106087"
+    },
+    "джусалы-106270": {
+      "lat": 45.484024,
+      "lng": 64.0849,
+      "query": "Джусалы, Kazakhstan",
+      "source": "nominatim",
+      "name": "Джусалы",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106270"
+    },
+    "кызылорда-106349": {
+      "lat": 44.8426778,
+      "lng": 65.5036151,
+      "query": "Кызылорда, Kazakhstan",
+      "source": "nominatim",
+      "name": "Кызылорда",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106349"
+    },
+    "саксаульский-106088": {
+      "lat": 47.0841197,
+      "lng": 61.154688,
+      "query": "Саксаульский, Kazakhstan",
+      "source": "nominatim",
+      "name": "Саксаульский",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106088"
+    },
+    "beyneu-105492": {
+      "lat": 45.4865845,
+      "lng": 54.7700279,
+      "query": "Beyneu, Mangistauskaya Oblast’, Kazakhstan",
+      "source": "nominatim",
+      "name": "Beyneu",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105492"
+    },
+    "актау-105142": {
+      "lat": 43.6353364,
+      "lng": 51.168222,
+      "query": "Актау, Kazakhstan",
+      "source": "nominatim",
+      "name": "Актау",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105142"
+    },
+    "баутино-105012": {
+      "lat": 44.542786,
+      "lng": 50.247673,
+      "query": "Баутино, Kazakhstan",
+      "source": "nominatim",
+      "name": "Баутино",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105012"
+    },
+    "ералиев-105141": {
+      "lat": 43.176664,
+      "lng": 51.6796799,
+      "query": "Ералиев, Mangistauskaya Oblast’, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ералиев",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105141"
+    },
+    "жанаозен-105222": {
+      "lat": 43.3381034,
+      "lng": 52.8556219,
+      "query": "Жанаозен, Mangistauskaya Oblast’, Kazakhstan",
+      "source": "nominatim",
+      "name": "Жанаозен",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105222"
+    },
+    "жетыбай-105221": {
+      "lat": 43.5883652,
+      "lng": 52.1014626,
+      "query": "Жетыбай, Mangistauskaya Oblast’, Kazakhstan",
+      "source": "nominatim",
+      "name": "Жетыбай",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105221"
+    },
+    "международный-аэропорт-актау-148864": {
+      "lat": 43.8589111,
+      "lng": 51.0931439,
+      "query": "Международный аэропорт Актау, Mangistauskaya Oblast’, Kazakhstan",
+      "source": "nominatim",
+      "name": "Международный аэропорт Актау",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "148864"
+    },
+    "мунайши-105223": {
+      "lat": 43.4985033,
+      "lng": 52.0879358,
+      "query": "Мунайши, Mangistauskaya Oblast’, Kazakhstan",
+      "source": "nominatim",
+      "name": "Мунайши",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105223"
+    },
+    "сай-утес-105309": {
+      "lat": 44.327709,
+      "lng": 53.533142,
+      "query": "Сай-Утес, Kazakhstan",
+      "source": "nominatim",
+      "name": "Сай-Утес",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105309"
+    },
+    "таучик-105144": {
+      "lat": 44.2982586,
+      "lng": 51.4192952,
+      "query": "Таучик, Mangistauskaya Oblast’, Kazakhstan",
+      "source": "nominatim",
+      "name": "Таучик",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105144"
+    },
+    "умирзак-105143": {
+      "lat": 43.5975904,
+      "lng": 51.2436968,
+      "query": "Умирзак, Mangistauskaya Oblast’, Kazakhstan",
+      "source": "nominatim",
+      "name": "Умирзак",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105143"
+    },
+    "шетпе-105224": {
+      "lat": 44.1413139,
+      "lng": 52.1556413,
+      "query": "Шетпе, Mangistauskaya Oblast’, Kazakhstan",
+      "source": "nominatim",
+      "name": "Шетпе",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105224"
+    },
+    "pavlodar-airport-149003": {
+      "lat": 52.1952241,
+      "lng": 77.0736552,
+      "query": "Pavlodar Airport, Kazakhstan",
+      "source": "nominatim",
+      "name": "Pavlodar Airport",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "149003"
+    },
+    "баянаул-108449": {
+      "lat": 50.7928518,
+      "lng": 75.702764,
+      "query": "Баянаул, Kazakhstan",
+      "source": "nominatim",
+      "name": "Баянаул",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "108449"
+    },
+    "белогорье-109305": {
+      "lat": 51.5303291,
+      "lng": 77.4680696,
+      "query": "Белогорье, Kazakhstan",
+      "source": "nominatim",
+      "name": "Белогорье",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "109305"
+    },
+    "железинка-108453": {
+      "lat": 53.5379935,
+      "lng": 75.3129714,
+      "query": "Железинка, Kazakhstan",
+      "source": "nominatim",
+      "name": "Железинка",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "108453"
+    },
+    "иртышск-108452": {
+      "lat": 53.3325963,
+      "lng": 75.4584153,
+      "query": "Иртышск, Kazakhstan",
+      "source": "nominatim",
+      "name": "Иртышск",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "108452"
+    },
+    "калкаман-108863": {
+      "lat": 51.953449,
+      "lng": 76.015717,
+      "query": "Калкаман, Kazakhstan",
+      "source": "nominatim",
+      "name": "Калкаман",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "108863"
+    },
+    "качиры-108867": {
+      "lat": 53.0666191,
+      "lng": 76.0992584,
+      "query": "Качиры, Kazakhstan",
+      "source": "nominatim",
+      "name": "Качиры",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "108867"
+    },
+    "ленинский-108866": {
+      "lat": 54.473019,
+      "lng": 69.182556,
+      "query": "Ленинский, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ленинский",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "108866"
+    },
+    "павлодар-108865": {
+      "lat": 52.2857573,
+      "lng": 76.9455035,
+      "query": "Павлодар, Kazakhstan",
+      "source": "nominatim",
+      "name": "Павлодар",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "108865"
+    },
+    "экибастуз-108450": {
+      "lat": 51.7275817,
+      "lng": 75.3288511,
+      "query": "Экибастуз, Kazakhstan",
+      "source": "nominatim",
+      "name": "Экибастуз",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "108450"
+    },
+    "astrakhan-106916": {
+      "lat": 51.5271824,
+      "lng": 69.5651498,
+      "query": "Astrakhan, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Astrakhan",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "106916"
+    },
+    "egindik-l-106917": {
+      "lat": 51.0573517,
+      "lng": 69.4773962,
+      "query": "Egindiköl, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Egindiköl",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "106917"
+    },
+    "shortandy-107079": {
+      "lat": 51.5679363,
+      "lng": 70.8269486,
+      "query": "Shortandy, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Shortandy",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "107079"
+    },
+    "yesil-106445": {
+      "lat": 51.960204,
+      "lng": 66.4092259,
+      "query": "Yesil’, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Yesil’",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "106445"
+    },
+    "zholymbet-107258": {
+      "lat": 51.745556,
+      "lng": 71.711021,
+      "query": "Zholymbet, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Zholymbet",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "107258"
+    },
+    "акколь-106918": {
+      "lat": 51.9956724,
+      "lng": 70.9560123,
+      "query": "Акколь, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Акколь",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "106918"
+    },
+    "аксу-107259": {
+      "lat": 52.515148,
+      "lng": 72.30909,
+      "query": "Аксу, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Аксу",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "107259"
+    },
+    "алексеевка-107078": {
+      "lat": 51.9956724,
+      "lng": 70.9560123,
+      "query": "Алексеевка, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Алексеевка",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "107078"
+    },
+    "атбасар-106717": {
+      "lat": 51.8097369,
+      "lng": 68.3573356,
+      "query": "Атбасар, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Атбасар",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "106717"
+    },
+    "балкашино-106718": {
+      "lat": 52.520611,
+      "lng": 68.7533243,
+      "query": "Балкашино, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Балкашино",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "106718"
+    },
+    "бестобе-107803": {
+      "lat": 52.4978381,
+      "lng": 73.0953567,
+      "query": "Бестобе, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Бестобе",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "107803"
+    },
+    "ерейментау-107802": {
+      "lat": 51.619881,
+      "lng": 73.103348,
+      "query": "Ерейментау, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ерейментау",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "107802"
+    },
+    "заводской-107481": {
+      "lat": 52.4638517,
+      "lng": 72.0121298,
+      "query": "Заводской, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Заводской",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "107481"
+    },
+    "кокшетау-106920": {
+      "lat": 53.2852054,
+      "lng": 69.3814676,
+      "query": "Кокшетау, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Кокшетау",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "106920"
+    },
+    "красногорский-106447": {
+      "lat": 52.2432729,
+      "lng": 66.513682,
+      "query": "Красногорский, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Красногорский",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "106447"
+    },
+    "макинск-107082": {
+      "lat": 52.63287,
+      "lng": 70.418213,
+      "query": "Макинск, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Макинск",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "107082"
+    },
+    "степногорск-107260": {
+      "lat": 52.346371,
+      "lng": 71.880493,
+      "query": "Степногорск, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Степногорск",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "107260"
+    },
+    "степняк-107080": {
+      "lat": 52.8312787,
+      "lng": 70.7869386,
+      "query": "Степняк, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Степняк",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "107080"
+    },
+    "шантобе-106719": {
+      "lat": 52.4529755,
+      "lng": 68.1679525,
+      "query": "Шантобе, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Шантобе",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "106719"
+    },
+    "актобе-105748": {
+      "lat": 50.2836938,
+      "lng": 57.2298129,
+      "query": "Актобе, Kazakhstan",
+      "source": "nominatim",
+      "name": "Актобе",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "105748"
+    },
+    "байганин-105493": {
+      "lat": 48.6930842,
+      "lng": 55.8786481,
+      "query": "Байганин, Kazakhstan",
+      "source": "nominatim",
+      "name": "Байганин",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "105493"
+    },
+    "батамшинский-105826": {
+      "lat": 50.562958,
+      "lng": 58.283154,
+      "query": "Батамшинский, Актюбинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Батамшинский",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "105826"
+    },
+    "иргиз-106089": {
+      "lat": 48.617874,
+      "lng": 61.263981,
+      "query": "Иргиз, Актюбинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Иргиз",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "106089"
+    },
+    "кандыагаш-105747": {
+      "lat": 49.4718361,
+      "lng": 57.4224647,
+      "query": "Кандыагаш, Актюбинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Кандыагаш",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "105747"
+    },
+    "мартук-105570": {
+      "lat": 50.7443222,
+      "lng": 56.4995791,
+      "query": "Мартук, Актюбинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Мартук",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "105570"
+    },
+    "темир-105746": {
+      "lat": 49.1425746,
+      "lng": 57.1259849,
+      "query": "Темир, Актюбинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Темир",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "105746"
+    },
+    "хромтау-105825": {
+      "lat": 50.2578229,
+      "lng": 58.4326684,
+      "query": "Хромтау, Актюбинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Хромтау",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "105825"
+    },
+    "шалкар-105901": {
+      "lat": 47.8273018,
+      "lng": 59.6159216,
+      "query": "Шалкар, Актюбинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Шалкар",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "105901"
+    },
+    "шубаркудук-105569": {
+      "lat": 49.1431517,
+      "lng": 56.4820258,
+      "query": "Шубаркудук, Актюбинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Шубаркудук",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "105569"
+    },
+    "шубарши-105745": {
+      "lat": 48.959499,
+      "lng": 54.245235,
+      "query": "Шубарши, Актюбинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Шубарши",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "105745"
+    },
+    "эмба-105824": {
+      "lat": 48.829453,
+      "lng": 58.147369,
+      "query": "Эмба, Актюбинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Эмба",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "105824"
+    },
+    "bakanas-108861": {
+      "lat": 44.807812,
+      "lng": 76.274628,
+      "query": "Bakanas, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Bakanas",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "108861"
+    },
+    "balpyk-b-109681": {
+      "lat": 44.0791921,
+      "lng": 77.4122887,
+      "query": "Balpyk Bī, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Balpyk Bī",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109681"
+    },
+    "kegen-110051": {
+      "lat": 43.021698,
+      "lng": 79.22316,
+      "query": "Kegen, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Kegen",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "110051"
+    },
+    "talghar-109299": {
+      "lat": 43.302721,
+      "lng": 77.2394726,
+      "query": "Talghar, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Talghar",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109299"
+    },
+    "lken-107790": {
+      "lat": 45.208988,
+      "lng": 73.984322,
+      "query": "Ülken, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ülken",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "107790"
+    },
+    "бурундай-108858": {
+      "lat": 43.3584693,
+      "lng": 76.8590468,
+      "query": "Бурундай, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Бурундай",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "108858"
+    },
+    "дружба-110638": {
+      "lat": 42.9505183,
+      "lng": 76.8060354,
+      "query": "Дружба, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Дружба",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "110638"
+    },
+    "есик-109296": {
+      "lat": 43.359486,
+      "lng": 77.465919,
+      "query": "Есик, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Есик",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109296"
+    },
+    "жаркент-110298": {
+      "lat": 43.4048173,
+      "lng": 77.2108938,
+      "query": "Жаркент, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Жаркент",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "110298"
+    },
+    "капшагай-109300": {
+      "lat": 43.855174,
+      "lng": 77.0614587,
+      "query": "Капшагай, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Капшагай",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109300"
+    },
+    "международный-аэропорт-алматы-149002": {
+      "lat": 43.3556863,
+      "lng": 77.0425838,
+      "query": "Международный Аэропорт «Алматы», Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Международный Аэропорт «Алматы»",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "149002"
+    },
+    "первомайское-108860": {
+      "lat": 43.1683418,
+      "lng": 76.4784487,
+      "query": "Первомайское, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Первомайское",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "108860"
+    },
+    "сарканд-110052": {
+      "lat": 45.4255329,
+      "lng": 79.8848657,
+      "query": "Сарканд, Kazakhstan",
+      "source": "nominatim",
+      "name": "Сарканд",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "110052"
+    },
+    "сарыозек-109301": {
+      "lat": 44.362385,
+      "lng": 77.974594,
+      "query": "Сарыозек, Kazakhstan",
+      "source": "nominatim",
+      "name": "Сарыозек",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109301"
+    },
+    "талды-курган-109303": {
+      "lat": 44.894,
+      "lng": 79.3382667,
+      "query": "Талды - Курган, Kazakhstan",
+      "source": "nominatim",
+      "name": "Талды - Курган",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109303"
+    },
+    "талдыкорган-109682": {
+      "lat": 45.0177188,
+      "lng": 78.3820494,
+      "query": "Талдыкорган, Kazakhstan",
+      "source": "nominatim",
+      "name": "Талдыкорган",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109682"
+    },
+    "atyrau-airport-148865": {
+      "lat": 47.1212403,
+      "lng": 51.8232747,
+      "query": "Atyrau Airport, Атырауская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Atyrau Airport",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "148865"
+    },
+    "акколь-105313": {
+      "lat": 51.9956724,
+      "lng": 70.9560123,
+      "query": "Акколь, Kazakhstan",
+      "source": "nominatim",
+      "name": "Акколь",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "105313"
+    },
+    "атырау-105147": {
+      "lat": 47.1067183,
+      "lng": 51.9138976,
+      "query": "Атырау, Kazakhstan",
+      "source": "nominatim",
+      "name": "Атырау",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "105147"
+    },
+    "байчунас-105226": {
+      "lat": 47.2411088,
+      "lng": 52.939834,
+      "query": "Байчунас, Атырауская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Байчунас",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "105226"
+    },
+    "балыкши-105146": {
+      "lat": 46.6077255,
+      "lng": 48.6480199,
+      "query": "Балыкши, Атырауская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Балыкши",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "105146"
+    },
+    "доссор-105225": {
+      "lat": 47.522774,
+      "lng": 52.979435,
+      "query": "Доссор, Атырауская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Доссор",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "105225"
+    },
+    "индерборский-105148": {
+      "lat": 48.5610249,
+      "lng": 51.7478775,
+      "query": "Индерборский, Атырауская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Индерборский",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "105148"
+    },
+    "каратон-105310": {
+      "lat": 46.3907488,
+      "lng": 53.4782972,
+      "query": "Каратон, Атырауская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Каратон",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "105310"
+    },
+    "кульсары-105387": {
+      "lat": 46.9621483,
+      "lng": 54.0129176,
+      "query": "Кульсары, Kazakhstan",
+      "source": "nominatim",
+      "name": "Кульсары",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "105387"
+    },
+    "макат-105311": {
+      "lat": 47.6471515,
+      "lng": 53.350528,
+      "query": "Макат, Атырауская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Макат",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "105311"
+    },
+    "махамбет-105145": {
+      "lat": 47.675577,
+      "lng": 51.5865434,
+      "query": "Махамбет, Атырауская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Махамбет",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "105145"
+    },
+    "миялы-105312": {
+      "lat": 47.263447,
+      "lng": 55.56525,
+      "query": "Миялы, Kazakhstan",
+      "source": "nominatim",
+      "name": "Миялы",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "105312"
+    },
+    "шалкар-104697": {
+      "lat": 47.113991,
+      "lng": 51.9460175,
+      "query": "Шалкар, Атырауская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Шалкар",
+      "regionName": "Атырауская область",
+      "regionSlug": "атырауская-область",
+      "id": "104697"
+    },
+    "байконур-106214": {
+      "lat": 45.6295344,
+      "lng": 63.3039777,
+      "query": "Байконур, Байконыр, Kazakhstan",
+      "source": "nominatim",
+      "name": "Байконур",
+      "regionName": "Байконыр",
+      "regionSlug": "байконыр",
+      "id": "106214"
+    },
+    "торетам-106213": {
+      "lat": 45.650665,
+      "lng": 63.315601,
+      "query": "Торетам, Kazakhstan",
+      "source": "nominatim",
+      "name": "Торетам",
+      "regionName": "Байконыр",
+      "regionSlug": "байконыр",
+      "id": "106213"
+    },
+    "ayagoz-110299": {
+      "lat": 47.9651211,
+      "lng": 80.4365994,
+      "query": "Ayagoz, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ayagoz",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110299"
+    },
+    "urzhar-110493": {
+      "lat": 47.1158621,
+      "lng": 81.1582499,
+      "query": "Urzhar, Kazakhstan",
+      "source": "nominatim",
+      "name": "Urzhar",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110493"
+    },
+    "zaysan-110970": {
+      "lat": 47.987953,
+      "lng": 84.0454962,
+      "query": "Zaysan, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Zaysan",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110970"
+    },
+    "алтайский-110644": {
+      "lat": 50.2466971,
+      "lng": 82.3617873,
+      "query": "Алтайский, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Алтайский",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110644"
+    },
+    "асубулак-110803": {
+      "lat": 49.5405421,
+      "lng": 82.9965908,
+      "query": "Асубулак, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Асубулак",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110803"
+    },
+    "ауэзов-110496": {
+      "lat": 49.9452233,
+      "lng": 82.6099434,
+      "query": "Ауэзов, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ауэзов",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110496"
+    },
+    "аэропорт-усть-каменогорск-149021": {
+      "lat": 50.0343021,
+      "lng": 82.4991374,
+      "query": "Аэропорт Усть-Каменогорск, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Аэропорт Усть-Каменогорск",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "149021"
+    },
+    "белогорский-110802": {
+      "lat": 49.475807,
+      "lng": 83.144905,
+      "query": "Белогорский, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Белогорский",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110802"
+    },
+    "белоусовка-110643": {
+      "lat": 50.1300262,
+      "lng": 82.5190556,
+      "query": "Белоусовка, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Белоусовка",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110643"
+    },
+    "бородулиха-110300": {
+      "lat": 50.7207116,
+      "lng": 80.9340577,
+      "query": "Бородулиха, Kazakhstan",
+      "source": "nominatim",
+      "name": "Бородулиха",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110300"
+    },
+    "георгиевка-110494": {
+      "lat": 47.4937729,
+      "lng": 85.6081537,
+      "query": "Георгиевка, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Георгиевка",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110494"
+    },
+    "глубокое-110642": {
+      "lat": 50.1438305,
+      "lng": 82.3169517,
+      "query": "Глубокое, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Глубокое",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110642"
+    },
+    "жангизтобе-110497": {
+      "lat": 49.211071,
+      "lng": 81.217087,
+      "query": "Жангизтобе, Kazakhstan",
+      "source": "nominatim",
+      "name": "Жангизтобе",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110497"
+    },
+    "жезкент-110501": {
+      "lat": 50.9220353,
+      "lng": 81.3957353,
+      "query": "Жезкент, Kazakhstan",
+      "source": "nominatim",
+      "name": "Жезкент",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110501"
+    },
+    "зыряновск-110973": {
+      "lat": 49.724243,
+      "lng": 84.275146,
+      "query": "Зыряновск, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Зыряновск",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110973"
+    },
+    "караул-110054": {
+      "lat": 42.1856783,
+      "lng": 69.8261176,
+      "query": "Караул, Kazakhstan",
+      "source": "nominatim",
+      "name": "Караул",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110054"
+    },
+    "курчатов-109686": {
+      "lat": 50.7565343,
+      "lng": 78.5486736,
+      "query": "Курчатов, Kazakhstan",
+      "source": "nominatim",
+      "name": "Курчатов",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "109686"
+    },
+    "курчум-110801": {
+      "lat": 48.7511658,
+      "lng": 84.6350061,
+      "query": "Курчум, Kazakhstan",
+      "source": "nominatim",
+      "name": "Курчум",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110801"
+    },
+    "лениногорск-110807": {
+      "lat": 50.338932,
+      "lng": 83.506157,
+      "query": "Лениногорск, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Лениногорск",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110807"
+    },
+    "малеевск-110972": {
+      "lat": 49.8182567,
+      "lng": 84.3160912,
+      "query": "Малеевск, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Малеевск",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110972"
+    },
+    "мерке-107787": {
+      "lat": 42.8651436,
+      "lng": 73.1861106,
+      "query": "Мерке, Kazakhstan",
+      "source": "nominatim",
+      "name": "Мерке",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "107787"
+    },
+    "новая-бухтарма-110806": {
+      "lat": 49.629428,
+      "lng": 83.5186178,
+      "query": "Новая Бухтарма, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Новая Бухтарма",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110806"
+    },
+    "огневка-110805": {
+      "lat": 49.681255,
+      "lng": 83.017792,
+      "query": "Огневка, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Огневка",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110805"
+    },
+    "семей-110301": {
+      "lat": 50.3333639,
+      "lng": 83.5223601,
+      "query": "Семей, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Семей",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110301"
+    },
+    "усть-каменогорск-110641": {
+      "lat": 49.9484438,
+      "lng": 82.6274791,
+      "query": "Усть-Каменогорск, Kazakhstan",
+      "source": "nominatim",
+      "name": "Усть-Каменогорск",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110641"
+    },
+    "усть-таловка-110502": {
+      "lat": 50.5481989,
+      "lng": 81.8500631,
+      "query": "Усть-Таловка, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Усть-Таловка",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110502"
+    },
+    "чарск-110499": {
+      "lat": 49.583221,
+      "lng": 81.050629,
+      "query": "Чарск, Kazakhstan",
+      "source": "nominatim",
+      "name": "Чарск",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110499"
+    },
+    "алматы-108859": {
+      "lat": 43.2363924,
+      "lng": 76.9457275,
+      "query": "Алматы, Kazakhstan",
+      "source": "nominatim",
+      "name": "Алматы",
+      "regionName": "Город Алматы",
+      "regionSlug": "город-алматы",
+      "id": "108859"
+    },
+    "астана-107257": {
+      "lat": 51.1282205,
+      "lng": 71.4306682,
+      "query": "Астана, Город Астана, Kazakhstan",
+      "source": "nominatim",
+      "name": "Астана",
+      "regionName": "Город Астана",
+      "regionSlug": "город-астана",
+      "id": "107257"
+    },
+    "mynaral-107791": {
+      "lat": 45.447704,
+      "lng": 73.648659,
+      "query": "Mynaral, Жамбылская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Mynaral",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107791"
+    },
+    "oytal-107786": {
+      "lat": 42.90527,
+      "lng": 73.27002,
+      "query": "Oytal, Жамбылская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Oytal",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107786"
+    },
+    "taraz-airport-148964": {
+      "lat": 42.8544626,
+      "lng": 71.304501,
+      "query": "Taraz Airport, Жамбылская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Taraz Airport",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "148964"
+    },
+    "георгиевка-108099": {
+      "lat": 43.042965,
+      "lng": 74.714485,
+      "query": "Георгиевка, Жамбылская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Георгиевка",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "108099"
+    },
+    "жанатас-106915": {
+      "lat": 43.5567547,
+      "lng": 69.7265539,
+      "query": "Жанатас, Жамбылская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Жанатас",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "106915"
+    },
+    "каратау-107075": {
+      "lat": 43.176197,
+      "lng": 70.46489,
+      "query": "Каратау, Жамбылская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Каратау",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107075"
+    },
+    "луговое-107465": {
+      "lat": 42.9107803,
+      "lng": 72.7082491,
+      "query": "Луговое, Жамбылская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Луговое",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107465"
+    },
+    "луговой-107466": {
+      "lat": 42.9423113,
+      "lng": 72.7543632,
+      "query": "Луговой, Kazakhstan",
+      "source": "nominatim",
+      "name": "Луговой",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107466"
+    },
+    "михайловка-107253": {
+      "lat": 43.000439,
+      "lng": 71.512039,
+      "query": "Михайловка, Жамбылская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Михайловка",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107253"
+    },
+    "тараз-107252": {
+      "lat": 42.9015945,
+      "lng": 71.3769302,
+      "query": "Тараз, Жамбылская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Тараз",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107252"
+    },
+    "чу-107788": {
+      "lat": 43.608765,
+      "lng": 73.76075,
+      "query": "Чу, Жамбылская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Чу",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107788"
+    },
+    "аксай-105230": {
+      "lat": 51.173893,
+      "lng": 53.011478,
+      "query": "Аксай, Западно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Аксай",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "105230"
+    },
+    "бурлин-105229": {
+      "lat": 51.427292,
+      "lng": 52.715065,
+      "query": "Бурлин, Западно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Бурлин",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "105229"
+    },
+    "джаныбек-104194": {
+      "lat": 49.4247308,
+      "lng": 46.8380243,
+      "query": "Джаныбек, Западно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Джаныбек",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "104194"
+    },
+    "казталовка-104698": {
+      "lat": 49.769405,
+      "lng": 48.689529,
+      "query": "Казталовка, Западно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Казталовка",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "104698"
+    },
+    "каменка-105016": {
+      "lat": 48.3434965,
+      "lng": 58.8304659,
+      "query": "Каменка, Kazakhstan",
+      "source": "nominatim",
+      "name": "Каменка",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "105016"
+    },
+    "круглоозерное-105151": {
+      "lat": 51.0782686,
+      "lng": 51.2822337,
+      "query": "Круглоозерное, Западно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Круглоозерное",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "105151"
+    },
+    "переметное-105015": {
+      "lat": 51.1984812,
+      "lng": 50.8548498,
+      "query": "Переметное, Западно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Переметное",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "105015"
+    },
+    "уральск-105150": {
+      "lat": 51.2040697,
+      "lng": 51.3707863,
+      "query": "Уральск, Западно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Уральск",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "105150"
+    },
+    "федоровка-105152": {
+      "lat": 53.6373094,
+      "lng": 62.6961379,
+      "query": "Федоровка, Kazakhstan",
+      "source": "nominatim",
+      "name": "Федоровка",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "105152"
+    },
+    "чапаев-105149": {
+      "lat": 50.1878581,
+      "lng": 51.1716191,
+      "query": "Чапаев, Kazakhstan",
+      "source": "nominatim",
+      "name": "Чапаев",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "105149"
+    },
+    "чингирлау-105393": {
+      "lat": 51.0864792,
+      "lng": 54.0802044,
+      "query": "Чингирлау, Kazakhstan",
+      "source": "nominatim",
+      "name": "Чингирлау",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "105393"
+    },
+    "aktogay-108446": {
+      "lat": 47.4594516,
+      "lng": 75.8291779,
+      "query": "Aktogay, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Aktogay",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "108446"
+    },
+    "aqadyr-107469": {
+      "lat": 50.238647,
+      "lng": 47.611435,
+      "query": "Aqadyr, Kazakhstan",
+      "source": "nominatim",
+      "name": "Aqadyr",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107469"
+    },
+    "atas-107255": {
+      "lat": 49.020975,
+      "lng": 72.5659799,
+      "query": "Atasū, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Atasū",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107255"
+    },
+    "dolinka-107472": {
+      "lat": 49.6783731,
+      "lng": 72.6783469,
+      "query": "Dolinka, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Dolinka",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107472"
+    },
+    "karaganda-airport-148976": {
+      "lat": 49.7134926,
+      "lng": 73.2084971,
+      "query": "Karaganda Airport, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Karaganda Airport",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "148976"
+    },
+    "koktal-107798": {
+      "lat": 45.3861241,
+      "lng": 75.2484467,
+      "query": "Koktal, Kazakhstan",
+      "source": "nominatim",
+      "name": "Koktal",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107798"
+    },
+    "k-evka-107256": {
+      "lat": 50.2606764,
+      "lng": 71.5525981,
+      "query": "Kīevka, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Kīevka",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107256"
+    },
+    "novodolinskiy-107477": {
+      "lat": 49.7081074,
+      "lng": 72.7119397,
+      "query": "Novodolinskiy, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Novodolinskiy",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107477"
+    },
+    "osakarovka-107480": {
+      "lat": 50.5606688,
+      "lng": 72.5813736,
+      "query": "Osakarovka, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Osakarovka",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107480"
+    },
+    "sayaq-109304": {
+      "lat": 46.907158,
+      "lng": 77.353699,
+      "query": "Sayaq, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Sayaq",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "109304"
+    },
+    "shubark-l-106716": {
+      "lat": 53.8562602,
+      "lng": 61.625981,
+      "query": "Shubarköl, Kazakhstan",
+      "source": "nominatim",
+      "name": "Shubarköl",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "106716"
+    },
+    "zhezkazgan-airport-148947": {
+      "lat": 47.7087772,
+      "lng": 67.7321997,
+      "query": "Zhezkazgan Airport, Kazakhstan",
+      "source": "nominatim",
+      "name": "Zhezkazgan Airport",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "148947"
+    },
+    "абай-107474": {
+      "lat": 49.6286416,
+      "lng": 72.8717614,
+      "query": "Абай, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Абай",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107474"
+    },
+    "аксу-аюлы-107795": {
+      "lat": 48.7655707,
+      "lng": 73.6740332,
+      "query": "Аксу-Аюлы, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Аксу-Аюлы",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107795"
+    },
+    "актас-107473": {
+      "lat": 50.152405,
+      "lng": 76.659966,
+      "query": "Актас, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Актас",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107473"
+    },
+    "актау-107470": {
+      "lat": 50.2191313,
+      "lng": 73.0612975,
+      "query": "Актау, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Актау",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107470"
+    },
+    "актау-107799": {
+      "lat": 50.2191313,
+      "lng": 73.0612975,
+      "query": "Актау, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Актау",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107799"
+    },
+    "акшатау-108101": {
+      "lat": 47.985634,
+      "lng": 74.043442,
+      "query": "Акшатау, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Акшатау",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "108101"
+    },
+    "балхаш-108100": {
+      "lat": 46.8433208,
+      "lng": 74.9773285,
+      "query": "Балхаш, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Балхаш",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "108100"
+    },
+    "джамбул-107254": {
+      "lat": 47.205521,
+      "lng": 71.394493,
+      "query": "Джамбул, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Джамбул",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107254"
+    },
+    "жарык-107471": {
+      "lat": 48.855301,
+      "lng": 72.835365,
+      "query": "Жарык, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Жарык",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107471"
+    },
+    "жезказган-106528": {
+      "lat": 49.8029062,
+      "lng": 73.0034414,
+      "query": "Жезказган, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Жезказган",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "106528"
+    },
+    "караганда-107797": {
+      "lat": 49.8421549,
+      "lng": 73.1063206,
+      "query": "Караганда, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Караганда",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107797"
+    },
+    "каражал-107077": {
+      "lat": 48.0045008,
+      "lng": 70.7936243,
+      "query": "Каражал, Kazakhstan",
+      "source": "nominatim",
+      "name": "Каражал",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107077"
+    },
+    "каркаралинск-108448": {
+      "lat": 49.4124087,
+      "lng": 75.4704514,
+      "query": "Каркаралинск, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Каркаралинск",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "108448"
+    },
+    "кушокы-107801": {
+      "lat": 50.23151,
+      "lng": 73.40078,
+      "query": "Кушокы, Kazakhstan",
+      "source": "nominatim",
+      "name": "Кушокы",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107801"
+    },
+    "кызылжар-107478": {
+      "lat": 50.9004942,
+      "lng": 57.1061266,
+      "query": "Кызылжар, Kazakhstan",
+      "source": "nominatim",
+      "name": "Кызылжар",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107478"
+    },
+    "пригородное-108447": {
+      "lat": 49.692443,
+      "lng": 75.584383,
+      "query": "Пригородное, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Пригородное",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "108447"
+    },
+    "приозерск-107792": {
+      "lat": 46.0308244,
+      "lng": 73.6925172,
+      "query": "Приозерск, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Приозерск",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107792"
+    },
+    "сарань-107476": {
+      "lat": 49.8017081,
+      "lng": 72.8285112,
+      "query": "Сарань, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Сарань",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107476"
+    },
+    "темиртау-107479": {
+      "lat": 50.0587825,
+      "lng": 72.9535681,
+      "query": "Темиртау, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Темиртау",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107479"
+    },
+    "токаревка-107800": {
+      "lat": 50.1196785,
+      "lng": 73.1632863,
+      "query": "Токаревка, Карагандинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Токаревка",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107800"
+    },
+    "шахан-107475": {
+      "lat": 43.404831,
+      "lng": 71.448418,
+      "query": "Шахан, Kazakhstan",
+      "source": "nominatim",
+      "name": "Шахан",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107475"
+    },
+    "kishkenekol-107482": {
+      "lat": 53.6357326,
+      "lng": 72.3411085,
+      "query": "Kishkenekol’, Kazakhstan",
+      "source": "nominatim",
+      "name": "Kishkenekol’",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "107482"
+    },
+    "бирлестик-106720": {
+      "lat": 53.5842513,
+      "lng": 68.3524274,
+      "query": "Бирлестик, Северо-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Бирлестик",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "106720"
+    },
+    "боровое-107083": {
+      "lat": 50.8598407,
+      "lng": 80.9168819,
+      "query": "Боровое, Kazakhstan",
+      "source": "nominatim",
+      "name": "Боровое",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "107083"
+    },
+    "булаево-107084": {
+      "lat": 54.896652,
+      "lng": 70.447189,
+      "query": "Булаево, Северо-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Булаево",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "107084"
+    },
+    "володарское-106721": {
+      "lat": 53.2940231,
+      "lng": 68.1060457,
+      "query": "Володарское, Kazakhstan",
+      "source": "nominatim",
+      "name": "Володарское",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "106721"
+    },
+    "красноармейск-106919": {
+      "lat": 53.847736,
+      "lng": 69.761436,
+      "query": "Красноармейск, Kazakhstan",
+      "source": "nominatim",
+      "name": "Красноармейск",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "106919"
+    },
+    "новоишимский-106448": {
+      "lat": 53.2140706,
+      "lng": 66.8138646,
+      "query": "Новоишимский, Kazakhstan",
+      "source": "nominatim",
+      "name": "Новоишимский",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "106448"
+    },
+    "петропавловск-106923": {
+      "lat": 54.8668104,
+      "lng": 69.1334984,
+      "query": "Петропавловск, Северо-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Петропавловск",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "106923"
+    },
+    "сергеевка-106530": {
+      "lat": 53.880951,
+      "lng": 67.415863,
+      "query": "Сергеевка, Северо-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Сергеевка",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "106530"
+    },
+    "талшик-107261": {
+      "lat": 53.6433864,
+      "lng": 71.8767545,
+      "query": "Талшик, Северо-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Талшик",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "107261"
+    },
+    "тимирязево-106449": {
+      "lat": 53.7481615,
+      "lng": 66.4954458,
+      "query": "Тимирязево, Северо-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Тимирязево",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "106449"
+    },
+    "явленка-106722": {
+      "lat": 54.3462508,
+      "lng": 68.4566996,
+      "query": "Явленка, Северо-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Явленка",
+      "regionName": "Северо-Казахстанская область",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "106722"
+    },
+    "shymkent-airport-148957": {
+      "lat": 42.3647874,
+      "lng": 69.4809447,
+      "query": "Shymkent Airport, Kazakhstan",
+      "source": "nominatim",
+      "name": "Shymkent Airport",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "148957"
+    },
+    "аксу-106907": {
+      "lat": 42.4428858,
+      "lng": 69.8220042,
+      "query": "Аксу, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Аксу",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106907"
+    },
+    "арысь-106712": {
+      "lat": 42.4324695,
+      "lng": 68.8134889,
+      "query": "Арысь, Kazakhstan",
+      "source": "nominatim",
+      "name": "Арысь",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106712"
+    },
+    "ащисай-106713": {
+      "lat": 42.1314497,
+      "lng": 69.5616703,
+      "query": "Ащисай, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ащисай",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106713"
+    },
+    "ванновка-107072": {
+      "lat": 42.5344182,
+      "lng": 70.3501763,
+      "query": "Ванновка, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ванновка",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "107072"
+    },
+    "жабаглы-107073": {
+      "lat": 42.439025,
+      "lng": 70.475753,
+      "query": "Жабаглы, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Жабаглы",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "107073"
+    },
+    "ильич-106697": {
+      "lat": 54.142712,
+      "lng": 70.545845,
+      "query": "Ильич, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ильич",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106697"
+    },
+    "кентау-106715": {
+      "lat": 43.5165919,
+      "lng": 68.4996044,
+      "query": "Кентау, Kazakhstan",
+      "source": "nominatim",
+      "name": "Кентау",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106715"
+    },
+    "когам-106711": {
+      "lat": 42.82576,
+      "lng": 68.281197,
+      "query": "Когам, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Когам",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106711"
+    },
+    "коктерек-107074": {
+      "lat": 41.4032576,
+      "lng": 69.0633038,
+      "query": "Коктерек, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Коктерек",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "107074"
+    },
+    "ленгер-106911": {
+      "lat": 42.1870905,
+      "lng": 69.8705984,
+      "query": "Ленгер, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ленгер",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106911"
+    },
+    "ленинское-106895": {
+      "lat": 41.758801,
+      "lng": 69.385651,
+      "query": "Ленинское, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Ленинское",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106895"
+    },
+    "сарыагаш-106894": {
+      "lat": 41.4700321,
+      "lng": 69.1830754,
+      "query": "Сарыагаш, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Сарыагаш",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106894"
+    },
+    "састобе-106910": {
+      "lat": 42.5543364,
+      "lng": 69.9968655,
+      "query": "Састобе, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Састобе",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106910"
+    },
+    "славянка-106700": {
+      "lat": 40.6654951,
+      "lng": 68.5499938,
+      "query": "Славянка, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Славянка",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106700"
+    },
+    "темирлановка-106908": {
+      "lat": 42.5999908,
+      "lng": 69.2581088,
+      "query": "Темирлановка, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Темирлановка",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106908"
+    },
+    "туркестан-106714": {
+      "lat": 43.3019457,
+      "lng": 68.2703698,
+      "query": "Туркестан, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Туркестан",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106714"
+    },
+    "чаян-106913": {
+      "lat": 43.032307,
+      "lng": 69.380745,
+      "query": "Чаян, Kazakhstan",
+      "source": "nominatim",
+      "name": "Чаян",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106913"
+    },
+    "чулаккурган-106912": {
+      "lat": 43.766701,
+      "lng": 69.17688,
+      "query": "Чулаккурган, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Чулаккурган",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106912"
+    },
+    "шардара-106525": {
+      "lat": 41.2725643,
+      "lng": 67.9810561,
+      "query": "Шардара, Kazakhstan",
+      "source": "nominatim",
+      "name": "Шардара",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106525"
+    },
+    "шымкент-106909": {
+      "lat": 42.1538121,
+      "lng": 70.5238864,
+      "query": "Шымкент, Южно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Шымкент",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106909"
+    },
+    "международный-аэропорт-костанай-148931": {
+      "lat": 53.220686,
+      "lng": 63.5535705,
+      "query": "Международный аэропорт Костанай, Kazakhstan",
+      "source": "nominatim",
+      "name": "Международный аэропорт Костанай",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "148931"
+    },
+    "кызылорда-106347": {
+      "lat": 44.8426778,
+      "lng": 65.5036151,
+      "query": "Кызылорда, Kazakhstan",
+      "source": "nominatim",
+      "name": "Кызылорда",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106347"
+    },
+    "форт-шевченко-105011": {
+      "lat": 44.508556,
+      "lng": 50.261929,
+      "query": "Форт-Шевченко, Kazakhstan",
+      "source": "nominatim",
+      "name": "Форт-Шевченко",
+      "regionName": "Mangistauskaya Oblast’",
+      "regionSlug": "mangistauskaya-oblast",
+      "id": "105011"
+    },
+    "аксу-108864": {
+      "lat": 52.0354244,
+      "lng": 76.9341133,
+      "query": "Аксу, Kazakhstan",
+      "source": "nominatim",
+      "name": "Аксу",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "108864"
+    },
+    "щучинск-107081": {
+      "lat": 52.9387457,
+      "lng": 70.1857634,
+      "query": "Щучинск, Акмолинская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Щучинск",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "107081"
+    },
+    "matay-109683": {
+      "lat": 45.8991847,
+      "lng": 78.7190589,
+      "query": "Matay, Kazakhstan",
+      "source": "nominatim",
+      "name": "Matay",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109683"
+    },
+    "текели-109680": {
+      "lat": 44.8615202,
+      "lng": 78.7629423,
+      "query": "Текели, Kazakhstan",
+      "source": "nominatim",
+      "name": "Текели",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109680"
+    },
+    "турген-109298": {
+      "lat": 50.7601195,
+      "lng": 72.3233854,
+      "query": "Турген, Kazakhstan",
+      "source": "nominatim",
+      "name": "Турген",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109298"
+    },
+    "уштобе-109302": {
+      "lat": 45.2513771,
+      "lng": 77.9838119,
+      "query": "Уштобе, Kazakhstan",
+      "source": "nominatim",
+      "name": "Уштобе",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109302"
+    },
+    "энергетический-109297": {
+      "lat": 43.4162574,
+      "lng": 77.017482,
+      "query": "Энергетический, Алматинская Область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Энергетический",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109297"
+    },
+    "шемонаиха-110503": {
+      "lat": 50.6273293,
+      "lng": 81.9086454,
+      "query": "Шемонаиха, Восточно-Казахстанская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Шемонаиха",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110503"
+    },
+    "гранитогорск-107782": {
+      "lat": 42.74279,
+      "lng": 73.468788,
+      "query": "Гранитогорск, Жамбылская область, Kazakhstan",
+      "source": "nominatim",
+      "name": "Гранитогорск",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107782"
+    },
+    "смирново-106922": {
+      "lat": 54.51453,
+      "lng": 69.419189,
+      "query": "Смирново, Kazakhstan",
+      "source": "nominatim",
+      "name": "Смирново",
+      "regionName": "-",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "106922"
+    },
+    "кировский-106701": {
+      "lat": 44.901318,
+      "lng": 78.23307,
+      "query": "Кировский, Kazakhstan",
+      "source": "nominatim",
+      "name": "Кировский",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106701"
+    },
+    "джетыгара-106090": {
+      "lat": 52.1905261,
+      "lng": 61.2047527,
+      "query": "Житикара, Kazakhstan",
+      "source": "nominatim",
+      "name": "Джетыгара",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106090"
+    },
+    "комсомолец-106169": {
+      "lat": 53.748184,
+      "lng": 62.062511,
+      "query": "Комсомолец, Kazakhstan",
+      "source": "nominatim",
+      "name": "Комсомолец",
+      "regionName": "Kostanayskaya Oblast’",
+      "regionSlug": "kostanayskaya-oblast",
+      "id": "106169"
+    },
+    "dzhalagash-106269": {
+      "lat": 43.0419275,
+      "lng": 78.6428335,
+      "query": "Жалагаш, Kazakhstan",
+      "source": "nominatim",
+      "name": "Dzhalagash",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106269"
+    },
+    "kyzylorda-airport-148937": {
+      "lat": 44.7056413,
+      "lng": 65.5885559,
+      "query": "Korkyt Ata Airport, Kazakhstan",
+      "source": "nominatim",
+      "name": "Kyzylorda Airport",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "148937"
+    },
+    "shalq-ya-106527": {
+      "lat": 43.953831,
+      "lng": 67.4207518,
+      "query": "Шалкия, Kazakhstan",
+      "source": "nominatim",
+      "name": "Shalqīya",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106527"
+    },
+    "шиели-106443": {
+      "lat": 44.176025,
+      "lng": 66.740959,
+      "query": "Shieli, Kazakhstan",
+      "source": "nominatim",
+      "name": "Шиели",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106443"
+    },
+    "яныкурган-106526": {
+      "lat": 43.909836,
+      "lng": 67.249458,
+      "query": "Zhanakorgan, Kazakhstan",
+      "source": "nominatim",
+      "name": "Яныкурган",
+      "regionName": "Kyzylordinskaya Oblast’",
+      "regionSlug": "kyzylordinskaya-oblast",
+      "id": "106526"
+    },
+    "майкайн-108451": {
+      "lat": 51.4632847,
+      "lng": 75.8041945,
+      "query": "Майкаин, Kazakhstan",
+      "source": "nominatim",
+      "name": "Майкайн",
+      "regionName": "Pavlodarskaya Oblast’",
+      "regionSlug": "pavlodarskaya-oblast",
+      "id": "108451"
+    },
+    "astana-international-airport-148965": {
+      "lat": 51.0258535,
+      "lng": 71.4641981,
+      "query": "Nursultan Nazarbayev International Airport, Kazakhstan",
+      "source": "nominatim",
+      "name": "Astana International Airport",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "148965"
+    },
+    "derzhav-nsk-106446": {
+      "lat": 51.0990849,
+      "lng": 66.3138516,
+      "query": "Державинск, Kazakhstan",
+      "source": "nominatim",
+      "name": "Derzhavīnsk",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "106446"
+    },
+    "zhaqsy-106529": {
+      "lat": 51.908749,
+      "lng": 67.31617,
+      "query": "Жаксы, Kazakhstan",
+      "source": "nominatim",
+      "name": "Zhaqsy",
+      "regionName": "Акмолинская область",
+      "regionSlug": "акмолинская-область",
+      "id": "106529"
+    },
+    "aktjubinsk-148907": {
+      "lat": 50.2836938,
+      "lng": 57.2298129,
+      "query": "Aktobe, Kazakhstan",
+      "source": "nominatim",
+      "name": "Aktjubinsk",
+      "regionName": "Актюбинская область",
+      "regionSlug": "актюбинская-область",
+      "id": "148907"
+    },
+    "lepsy-109684": {
+      "lat": 45.995118,
+      "lng": 79.6700274,
+      "query": "Lepsy, Kazakhstan",
+      "source": "nominatim",
+      "name": "Lepsy",
+      "regionName": "Алматинская Область",
+      "regionSlug": "алматинская-область",
+      "id": "109684"
+    },
+    "aqtoghay-110053": {
+      "lat": 46.9569824,
+      "lng": 79.9262676,
+      "query": "Aktogay, Kazakhstan",
+      "source": "nominatim",
+      "name": "Aqtoghay",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110053"
+    },
+    "t-ghyl-110971": {
+      "lat": 47.727528,
+      "lng": 84.208084,
+      "query": "Tugyl, Kazakhstan",
+      "source": "nominatim",
+      "name": "Tūghyl",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110971"
+    },
+    "aqbaqay-107468": {
+      "lat": 45.128265,
+      "lng": 72.676254,
+      "query": "Акбакай, Kazakhstan",
+      "source": "nominatim",
+      "name": "Aqbaqay",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107468"
+    },
+    "khanta-107789": {
+      "lat": 44.2274072,
+      "lng": 73.7969428,
+      "query": "Хантау, Kazakhstan",
+      "source": "nominatim",
+      "name": "Khantaū",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107789"
+    },
+    "moyynkum-107467": {
+      "lat": 44.28545,
+      "lng": 72.94297,
+      "query": "Moiynkum, Kazakhstan",
+      "source": "nominatim",
+      "name": "Moyynkum",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107467"
+    },
+    "shyghanaq-107076": {
+      "lat": 45.1064432,
+      "lng": 73.975037,
+      "query": "Шыганак, Kazakhstan",
+      "source": "nominatim",
+      "name": "Shyghanaq",
+      "regionName": "Жамбылская область",
+      "regionSlug": "жамбылская-область",
+      "id": "107076"
+    },
+    "moyynty-107794": {
+      "lat": 47.2227211,
+      "lng": 73.3554614,
+      "query": "Мойынты, Kazakhstan",
+      "source": "nominatim",
+      "name": "Moyynty",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107794"
+    },
+    "saryshaghan-107793": {
+      "lat": 46.1170174,
+      "lng": 73.6092892,
+      "query": "Сарышаган, Kazakhstan",
+      "source": "nominatim",
+      "name": "Saryshaghan",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107793"
+    },
+    "shash-bay-108445": {
+      "lat": 46.8040161,
+      "lng": 75.0289963,
+      "query": "Шашубай, Kazakhstan",
+      "source": "nominatim",
+      "name": "Shashūbay",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "108445"
+    },
+    "verkhniye-kayrakty-107796": {
+      "lat": 48.649529,
+      "lng": 73.12307,
+      "query": "Верхние Кайракты, Kazakhstan",
+      "source": "nominatim",
+      "name": "Verkhniye Kayrakty",
+      "regionName": "Карагандинская область",
+      "regionSlug": "карагандинская-область",
+      "id": "107796"
+    },
+    "petropavlosk-south-airport-150125": {
+      "lat": 54.77454,
+      "lng": 69.1832152,
+      "query": "Petropavl Airport, Kazakhstan",
+      "source": "nominatim",
+      "name": "Petropavlosk South Airport",
+      "regionName": "-",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "150125"
+    },
+    "бишкуль-106921": {
+      "lat": 54.775146,
+      "lng": 69.097794,
+      "query": "Бишкуль, Kazakhstan",
+      "source": "nominatim",
+      "name": "Бишкуль",
+      "regionName": "-",
+      "regionSlug": "северо-казахстанская-область",
+      "id": "106921"
+    },
+    "bayzhansay-106914": {
+      "lat": 43.1635262,
+      "lng": 69.9120784,
+      "query": "Байжансай, Kazakhstan",
+      "source": "nominatim",
+      "name": "Bayzhansay",
+      "regionName": "Южно-Казахстанская область",
+      "regionSlug": "южно-казахстанская-область",
+      "id": "106914"
+    },
+    "priisk-boko-110495": {
+      "lat": 49.06028,
+      "lng": 81.64528,
+      "query": "Priisk Boko, Kazakhstan",
+      "source": "manual:weatherspark",
+      "name": "Priisk Boko",
+      "regionName": "Восточно-Казахстанская область",
+      "regionSlug": "восточно-казахстанская-область",
+      "id": "110495"
+    },
+    "джамбейты-105227": {
+      "lat": 50.263822,
+      "lng": 52.597523,
+      "query": "Zhympity, Kazakhstan",
+      "source": "manual:zhympity-alias",
+      "name": "Джамбейты",
+      "regionName": "Западно-Казахстанская область",
+      "regionSlug": "западно-казахстанская-область",
+      "id": "105227"
+    }
+  },
+  "missing": []
+}

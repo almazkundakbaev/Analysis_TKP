@@ -1,0 +1,189 @@
+{
+  "source": {
+    "name": "WeatherSpark",
+    "city": "Астана",
+    "country": "Казахстан",
+    "page_title": "Климат, погода по месяцам, средняя температура в Астана (Казахстан)",
+    "url": "https://ru.weatherspark.com/y/107257/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+    "captured_by": "manual extraction for starter project",
+    "captured_at": "2026-05-13"
+  },
+  "summary": {
+    "annual_temperature_range_c": {
+      "usual_min": -21,
+      "usual_max": 26,
+      "rare_below": -31,
+      "rare_above": 33
+    },
+    "warm_season": {
+      "start": "14 мая",
+      "end": "13 сентября",
+      "duration_months": 4.0,
+      "daily_high_above_c": 19
+    },
+    "cold_season": {
+      "start": "21 ноября",
+      "end": "14 марта",
+      "duration_months": 3.8,
+      "daily_mean_below_c": -4
+    },
+    "best_visit_period": "с середины июня до середины августа",
+    "tourism_score_peak": 7.0,
+    "wet_season": "с 24 апреля по 6 августа",
+    "driest_period": "с 6 августа по 24 апреля",
+    "longest_day": "21 июня - 16 часов 35 минут",
+    "shortest_day": "22 декабря - 7 часов 53 минуты",
+    "windy_period": "с 15 октября по 13 мая",
+    "calm_period": "с 13 мая по 15 октября"
+  },
+  "monthly": [
+    {
+      "month": "янв",
+      "avg_high_c": -11,
+      "avg_mean_c": -15,
+      "avg_low_c": -20,
+      "cloudier_pct": 82,
+      "clearer_pct": 18,
+      "daylight_hours": 8.5,
+      "wind_kph": 19.9,
+      "muggy_days": 0.0
+    },
+    {
+      "month": "фев",
+      "avg_high_c": -10,
+      "avg_mean_c": -15,
+      "avg_low_c": -20,
+      "cloudier_pct": 80,
+      "clearer_pct": 20,
+      "daylight_hours": 10.0,
+      "wind_kph": 19.9,
+      "muggy_days": 0.0
+    },
+    {
+      "month": "март",
+      "avg_high_c": -3,
+      "avg_mean_c": -7,
+      "avg_low_c": -12,
+      "cloudier_pct": 67,
+      "clearer_pct": 33,
+      "daylight_hours": 12.0,
+      "wind_kph": 19.5,
+      "muggy_days": 0.0
+    },
+    {
+      "month": "апр",
+      "avg_high_c": 10,
+      "avg_mean_c": 5,
+      "avg_low_c": -1,
+      "cloudier_pct": 48,
+      "clearer_pct": 52,
+      "daylight_hours": 13.9,
+      "wind_kph": 18.3,
+      "muggy_days": 0.0
+    },
+    {
+      "month": "май",
+      "avg_high_c": 19,
+      "avg_mean_c": 14,
+      "avg_low_c": 6,
+      "cloudier_pct": 42,
+      "clearer_pct": 58,
+      "daylight_hours": 15.6,
+      "wind_kph": 16.9,
+      "muggy_days": 0.0
+    },
+    {
+      "month": "июнь",
+      "avg_high_c": 25,
+      "avg_mean_c": 19,
+      "avg_low_c": 12,
+      "cloudier_pct": 37,
+      "clearer_pct": 63,
+      "daylight_hours": 16.5,
+      "wind_kph": 15.3,
+      "muggy_days": 0.1
+    },
+    {
+      "month": "июль",
+      "avg_high_c": 26,
+      "avg_mean_c": 20,
+      "avg_low_c": 14,
+      "cloudier_pct": 34,
+      "clearer_pct": 66,
+      "daylight_hours": 16.0,
+      "wind_kph": 14.4,
+      "muggy_days": 0.2
+    },
+    {
+      "month": "авг",
+      "avg_high_c": 24,
+      "avg_mean_c": 18,
+      "avg_low_c": 11,
+      "cloudier_pct": 32,
+      "clearer_pct": 68,
+      "daylight_hours": 14.5,
+      "wind_kph": 14.5,
+      "muggy_days": 0.0
+    },
+    {
+      "month": "сент",
+      "avg_high_c": 18,
+      "avg_mean_c": 12,
+      "avg_low_c": 5,
+      "cloudier_pct": 41,
+      "clearer_pct": 59,
+      "daylight_hours": 12.6,
+      "wind_kph": 15.8,
+      "muggy_days": 0.0
+    },
+    {
+      "month": "окт",
+      "avg_high_c": 8,
+      "avg_mean_c": 4,
+      "avg_low_c": -2,
+      "cloudier_pct": 55,
+      "clearer_pct": 45,
+      "daylight_hours": 10.6,
+      "wind_kph": 17.5,
+      "muggy_days": 0.0
+    },
+    {
+      "month": "нояб",
+      "avg_high_c": -2,
+      "avg_mean_c": -6,
+      "avg_low_c": -10,
+      "cloudier_pct": 68,
+      "clearer_pct": 32,
+      "daylight_hours": 8.9,
+      "wind_kph": 19.0,
+      "muggy_days": 0.0
+    },
+    {
+      "month": "дек",
+      "avg_high_c": -9,
+      "avg_mean_c": -13,
+      "avg_low_c": -17,
+      "cloudier_pct": 78,
+      "clearer_pct": 22,
+      "daylight_hours": 8.0,
+      "wind_kph": 19.8,
+      "muggy_days": 0.0
+    }
+  ],
+  "notable_points": {
+    "hottest_month": "июль",
+    "coldest_month": "январь",
+    "clearest_month": "август",
+    "cloudiest_month": "январь",
+    "rainiest_month_by_wet_days": "июль - 6.4 дня",
+    "least_rainy_month_by_wet_days": "февраль - 1.7 дня",
+    "snowiest_month_by_snow_days": "декабрь - 2.1 дня",
+    "peak_daily_precip_probability": "14 июля - 23%",
+    "lowest_daily_precip_probability": "4 февраля - 5%",
+    "dominant_wind_directions": [
+      "юг - с 2 декабря по 23 февраля",
+      "запад - с 23 февраля по 15 июня и с 15 августа по 2 декабря",
+      "север - с 15 июня по 15 августа"
+    ]
+  }
+}

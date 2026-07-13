@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="data:,">
+  <title>Анализ проекта | Анализ ТКП</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400..800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./vendor/weatherspark.css">
+  <link rel="stylesheet" href="./styles.css?v=20260709-editor-cleanup">
+</head>
+<body data-page="project">
+  <main class="app-shell">
+    <aside class="sidebar">
+      <section class="brand-panel project-brand">
+        <div>
+          <p class="eyebrow">Анализ проекта</p>
+          <h1>Анализ ТКП</h1>
+          <p class="muted">Навигация по структуре ТКП и разделам проекта.</p>
+        </div>
+      </section>
+
+      <nav id="method-nav" class="method-nav" aria-label="Разделы ТКП"></nav>
+    </aside>
+
+    <section class="workbench">
+      <header class="site-topbar project-site-topbar">
+        <button class="sidebar-toggle" type="button" aria-label="Открыть или закрыть левое меню" aria-expanded="true" data-sidebar-toggle>
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <a class="ghost-link back-link" href="./projects.html?view=projects">Назад</a>
+        <nav id="header-structure-nav" class="header-structure-nav" aria-label="Навигация по подглавам"></nav>
+        <form class="site-search" role="search">
+          <label>
+            <span>Поиск по сайту</span>
+            <input id="global-search" type="search" placeholder="Введите проект, город или регион" autocomplete="off">
+          </label>
+          <div id="search-results" class="search-results site-search-results"></div>
+        </form>
+      </header>
+
+      <section class="project-header">
+        <div>
+          <p class="eyebrow">Открытый проект</p>
+          <h2 id="active-project-title">Проект</h2>
+          <p id="active-project-meta" class="muted">Разделы анализа открываются слева.</p>
+        </div>
+        <div class="header-stats">
+          <article>
+            <span>Разделы</span>
+            <strong id="stat-sections">0</strong>
+          </article>
+          <article>
+            <span>Климат</span>
+            <strong id="stat-weather">0</strong>
+          </article>
+          <article>
+            <span>Формат</span>
+            <strong>ТКП</strong>
+          </article>
+        </div>
+      </section>
+      <section id="section-output" class="section-output"></section>
+    </section>
+  </main>
+
+  <template id="empty-template">
+    <section class="empty-state">
+      <h2>Проект не выбран</h2>
+      <p>Вернитесь к списку проектов и откройте нужный анализ.</p>
+    </section>
+  </template>
+
+  <script src="./map-config.js?v=20260709-editor-cleanup"></script>
+  <script src="./app.js?v=20260709-editor-cleanup"></script>
+  <script src="./app-2gis-overrides.js?v=20260709-editor-cleanup"></script>
+</body>
+</html>

@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="data:,">
+  <title>Проекты | Анализ ТКП</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400..800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./vendor/weatherspark.css">
+  <link rel="stylesheet" href="./styles.css?v=20260709-editor-cleanup">
+</head>
+<body data-page="projects">
+  <main class="codex-shell">
+    <aside class="codex-sidebar" aria-label="Навигация">
+      <div class="codex-sidebar-top">
+        <section class="codex-brand">
+          <strong>Анализ ТКП</strong>
+          <span>Рабочая область</span>
+        </section>
+
+        <nav class="codex-menu">
+          <button class="codex-menu-item is-active" type="button" data-project-view="create">
+            <span class="codex-menu-icon">+</span>
+            <span>Создать проект</span>
+          </button>
+          <button class="codex-menu-item" type="button" data-project-view="projects">
+            <span class="codex-menu-icon">□</span>
+            <span>Проекты</span>
+            <em id="project-count">0</em>
+          </button>
+          <button class="codex-menu-item" type="button" data-project-view="profile">
+            <span class="codex-menu-icon">○</span>
+            <span>Профиль</span>
+          </button>
+          <button class="codex-menu-item" type="button" data-project-view="users">
+            <span class="codex-menu-icon">☷</span>
+            <span>Пользователи</span>
+          </button>
+          <button id="logout-button" class="codex-menu-item" type="button">
+            <span class="codex-menu-icon">↩</span>
+            <span>Выйти из аккаунта</span>
+          </button>
+        </nav>
+
+      </div>
+    </aside>
+
+    <section class="codex-workspace">
+      <header class="site-topbar">
+        <button class="sidebar-toggle" type="button" aria-label="Открыть или закрыть левое меню" aria-expanded="true" data-sidebar-toggle>
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <form class="site-search" role="search">
+          <label>
+            <span>Поиск по сайту</span>
+            <input id="global-search" type="search" placeholder="Введите проект, город или регион" autocomplete="off">
+          </label>
+          <div id="search-results" class="search-results site-search-results"></div>
+        </form>
+      </header>
+
+      <section class="project-view is-active" data-project-panel="create">
+        <header class="codex-page-header">
+          <div>
+            <p class="eyebrow">Новый проект</p>
+            <h1>Создать проект</h1>
+            <p class="muted">Заполните основную информацию, выберите город и создайте проект. После создания откроется рабочая область анализа.</p>
+          </div>
+        </header>
+
+        <section class="codex-content-panel">
+          <div class="project-form-grid">
+            <label>
+              <span>Название проекта</span>
+              <input id="project-name" type="text" placeholder="Введите название">
+            </label>
+
+            <label>
+              <span>Описание проекта</span>
+              <textarea id="project-location" rows="5" placeholder="Кратко опишите идею будущей базы отдыха..."></textarea>
+            </label>
+
+            <label>
+              <span>Город для анализа</span>
+              <input id="city-search" type="search" placeholder="Астана, Алматы, Кокшетау..." autocomplete="off">
+            </label>
+
+            <div id="city-results" class="city-results"></div>
+
+            <button id="save-project" class="primary-button create-project-button" type="button">Создать проект</button>
+          </div>
+        </section>
+      </section>
+
+      <section class="project-view" data-project-panel="projects">
+        <header class="codex-page-header">
+          <div>
+            <p class="eyebrow">Рабочий стол</p>
+            <h1>Проекты</h1>
+            <p class="muted">Откройте сохранённый проект, чтобы перейти к разделам анализа, карте и данным.</p>
+          </div>
+          <div class="header-stats">
+            <article>
+              <span>Разделы</span>
+              <strong>9</strong>
+            </article>
+            <article>
+              <span>Формат</span>
+              <strong>ТКП</strong>
+            </article>
+            <article>
+              <span>Данные</span>
+              <strong>Карта</strong>
+            </article>
+          </div>
+        </header>
+
+        <section class="codex-content-panel">
+          <div class="panel-title">
+            <h2>Сохранённые проекты</h2>
+          </div>
+          <div id="project-list" class="project-list project-list-large"></div>
+        </section>
+      </section>
+
+      <section class="project-view" data-project-panel="profile">
+        <header class="codex-page-header">
+          <div>
+            <p class="eyebrow">Профиль</p>
+            <h1>Мой профиль</h1>
+            <p class="muted">Здесь можно изменить фотографию профиля и оставить комментарий для рабочей области.</p>
+          </div>
+        </header>
+
+        <section class="codex-content-panel profile-panel">
+          <div class="profile-photo-block">
+            <img id="profile-photo-preview" class="profile-photo" alt="Фото профиля">
+            <div>
+              <h2>Фотография</h2>
+              <p class="muted">Выберите изображение на компьютере. Оно сохранится локально в браузере.</p>
+              <label class="profile-file-button">
+                <span>Изменить фото</span>
+                <input id="profile-photo-input" type="file" accept="image/*">
+              </label>
+            </div>
+          </div>
+
+          <section class="profile-role-card">
+            <span>Тип аккаунта</span>
+            <strong id="profile-account-role">Пользователь</strong>
+          </section>
+
+          <label>
+            <span>Комментарий</span>
+            <textarea id="profile-comment" rows="6" placeholder="Например: заметки, роль, контакты или рабочий комментарий..."></textarea>
+          </label>
+
+          <button id="save-profile" class="primary-button create-project-button" type="button">Сохранить профиль</button>
+        </section>
+      </section>
+
+      <section class="project-view" data-project-panel="admin">
+        <header class="codex-page-header">
+          <div>
+            <p class="eyebrow">Админ</p>
+            <h1>Панель администратора</h1>
+            <p class="muted">Краткая сводка по пользователям и проектам.</p>
+          </div>
+        </header>
+
+        <section class="codex-content-panel">
+          <div class="admin-stats-grid">
+            <article>
+              <span>Пользователи</span>
+              <strong id="admin-users-count">0</strong>
+            </article>
+            <article>
+              <span>Проекты</span>
+              <strong id="admin-projects-count">0</strong>
+            </article>
+          </div>
+        </section>
+      </section>
+
+      <section class="project-view" data-project-panel="users">
+        <header class="codex-page-header">
+          <div>
+            <p class="eyebrow">Пользователи</p>
+            <h1>Создание пользователей</h1>
+            <p class="muted">Администратор может создавать локальных пользователей и назначать доступ.</p>
+          </div>
+        </header>
+
+        <section class="codex-content-panel">
+          <div class="user-create-grid">
+            <label>
+              <span>Имя</span>
+              <input id="user-full-name" type="text" placeholder="Иван Иванов">
+            </label>
+            <label>
+              <span>Логин</span>
+              <input id="user-login" type="text" placeholder="manager">
+            </label>
+            <label>
+              <span>Пароль</span>
+              <input id="user-password" type="password" placeholder="Пароль">
+            </label>
+            <label>
+              <span>Роль</span>
+              <select id="user-role">
+                <option value="user">Пользователь</option>
+                <option value="admin">Администратор</option>
+              </select>
+            </label>
+          </div>
+          <button id="create-user" class="primary-button create-project-button" type="button">Добавить пользователя</button>
+          <div id="users-list" class="users-list"></div>
+        </section>
+      </section>
+
+    </section>
+  </main>
+
+  <script src="./map-config.js?v=20260709-editor-cleanup"></script>
+  <script src="./app.js?v=20260709-editor-cleanup"></script>
+  <script src="./app-2gis-overrides.js?v=20260709-editor-cleanup"></script>
+</body>
+</html>

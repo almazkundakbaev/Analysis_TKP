@@ -1,0 +1,2821 @@
+{
+  "generatedAt": "2026-05-20T10:15:17.498855+00:00",
+  "sourceUrl": "https://ru.weatherspark.com/countries/KZ",
+  "regionCount": 17,
+  "cityCount": 266,
+  "regions": [
+    {
+      "name": "Kostanayskaya Oblast’",
+      "slug": "kostanayskaya-oblast",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/13",
+      "cityCount": 17,
+      "cities": [
+        {
+          "id": "106167",
+          "slug": "f-dorovka-106167",
+          "name": "Fëdorovka",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106167/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-F%C3%ABdorovka-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Fëdorovka (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/f-dorovka-106167.json"
+        },
+        {
+          "id": "106164",
+          "slug": "tobol-106164",
+          "name": "Tobol",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106164/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Tobol-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Tobol (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/tobol-106164.json"
+        },
+        {
+          "id": "106444",
+          "slug": "аркалык-106444",
+          "name": "Аркалык",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106444/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D1%80%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Аркалык (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/аркалык-106444.json"
+        },
+        {
+          "id": "106273",
+          "slug": "боровской-106273",
+          "name": "Боровской",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106273/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Боровской (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/боровской-106273.json"
+        },
+        {
+          "id": "106165",
+          "slug": "викторовка-106165",
+          "name": "Викторовка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106165/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Викторовка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/викторовка-106165.json"
+        },
+        {
+          "id": "106090",
+          "slug": "джетыгара-106090",
+          "name": "Джетыгара",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106090/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%94%D0%B6%D0%B5%D1%82%D1%8B%D0%B3%D0%B0%D1%80%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Джетыгара (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/джетыгара-106090.json"
+        },
+        {
+          "id": "106350",
+          "slug": "караман-106350",
+          "name": "Караман",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106350/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D1%80%D0%B0%D0%BC%D0%B0%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Караман (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/караман-106350.json"
+        },
+        {
+          "id": "106168",
+          "slug": "качар-106168",
+          "name": "Качар",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106168/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D1%87%D0%B0%D1%80-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Качар (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/качар-106168.json"
+        },
+        {
+          "id": "106169",
+          "slug": "комсомолец-106169",
+          "name": "Комсомолец",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106169/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D0%B5%D1%86-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Комсомолец (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/комсомолец-106169.json"
+        },
+        {
+          "id": "106217",
+          "slug": "костанай-106217",
+          "name": "Костанай",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106217/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Костанай (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/костанай-106217.json"
+        },
+        {
+          "id": "106272",
+          "slug": "кушмурун-106272",
+          "name": "Кушмурун",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106272/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D1%83%D1%88%D0%BC%D1%83%D1%80%D1%83%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Кушмурун (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/кушмурун-106272.json"
+        },
+        {
+          "id": "106166",
+          "slug": "лисаковка-106166",
+          "name": "Лисаковка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106166/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9B%D0%B8%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Лисаковка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/лисаковка-106166.json"
+        },
+        {
+          "id": "148931",
+          "slug": "международный-аэропорт-костанай-148931",
+          "name": "Международный аэропорт Костанай",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/148931/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82-%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Международный аэропорт Костанай (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/международный-аэропорт-костанай-148931.json"
+        },
+        {
+          "id": "106091",
+          "slug": "орджоникидзе-106091",
+          "name": "Орджоникидзе",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106091/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9E%D1%80%D0%B4%D0%B6%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%D0%B4%D0%B7%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Орджоникидзе (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/орджоникидзе-106091.json"
+        },
+        {
+          "id": "106216",
+          "slug": "рудный-106216",
+          "name": "Рудный",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106216/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A0%D1%83%D0%B4%D0%BD%D1%8B%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Рудный (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/рудный-106216.json"
+        },
+        {
+          "id": "106450",
+          "slug": "троебратский-106450",
+          "name": "Троебратский",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106450/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D1%80%D0%BE%D0%B5%D0%B1%D1%80%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Троебратский (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/троебратский-106450.json"
+        },
+        {
+          "id": "106215",
+          "slug": "тургай-106215",
+          "name": "Тургай",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106215/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D1%83%D1%80%D0%B3%D0%B0%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Тургай (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/тургай-106215.json"
+        }
+      ]
+    },
+    {
+      "name": "Kyzylordinskaya Oblast’",
+      "slug": "kyzylordinskaya-oblast",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/14",
+      "cityCount": 15,
+      "cities": [
+        {
+          "id": "106162",
+          "slug": "ayteke-bi-106162",
+          "name": "Ayteke Bi",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106162/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Ayteke-Bi-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ayteke Bi (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/ayteke-bi-106162.json"
+        },
+        {
+          "id": "106346",
+          "slug": "belk-l-106346",
+          "name": "Belköl",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106346/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Belk%C3%B6l-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Belköl (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/belk-l-106346.json"
+        },
+        {
+          "id": "106269",
+          "slug": "dzhalagash-106269",
+          "name": "Dzhalagash",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106269/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Dzhalagash-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Dzhalagash (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/dzhalagash-106269.json"
+        },
+        {
+          "id": "148937",
+          "slug": "kyzylorda-airport-148937",
+          "name": "Kyzylorda Airport",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/148937/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2Kyzylorda-Airport-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Kyzylorda Airport (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/kyzylorda-airport-148937.json"
+        },
+        {
+          "id": "106163",
+          "slug": "qazaly-106163",
+          "name": "Qazaly",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106163/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Qazaly-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Qazaly (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/qazaly-106163.json"
+        },
+        {
+          "id": "106527",
+          "slug": "shalq-ya-106527",
+          "name": "Shalqīya",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106527/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Shalq%C4%ABya-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Shalqīya (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/shalq-ya-106527.json"
+        },
+        {
+          "id": "106348",
+          "slug": "tasb-get-106348",
+          "name": "Tasböget",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106348/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Tasb%C3%B6get-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Tasböget (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/tasb-get-106348.json"
+        },
+        {
+          "id": "106271",
+          "slug": "terenozek-106271",
+          "name": "Terenozek",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106271/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Terenozek-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Terenozek (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/terenozek-106271.json"
+        },
+        {
+          "id": "106087",
+          "slug": "аральск-106087",
+          "name": "Аральск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106087/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Аральск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/аральск-106087.json"
+        },
+        {
+          "id": "106270",
+          "slug": "джусалы-106270",
+          "name": "Джусалы",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106270/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%94%D0%B6%D1%83%D1%81%D0%B0%D0%BB%D1%8B-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Джусалы (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/джусалы-106270.json"
+        },
+        {
+          "id": "106347",
+          "slug": "кызылорда-106347",
+          "name": "Кызылорда",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106347/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB%D0%BE%D1%80%D0%B4%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Кызылорда (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/кызылорда-106347.json"
+        },
+        {
+          "id": "106349",
+          "slug": "кызылорда-106349",
+          "name": "Кызылорда",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106349/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB%D0%BE%D1%80%D0%B4%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Кызылорда (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/кызылорда-106349.json"
+        },
+        {
+          "id": "106088",
+          "slug": "саксаульский-106088",
+          "name": "Саксаульский",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106088/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D0%B0%D0%BA%D1%81%D0%B0%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Саксаульский (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/саксаульский-106088.json"
+        },
+        {
+          "id": "106443",
+          "slug": "шиели-106443",
+          "name": "Шиели",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106443/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D0%B8%D0%B5%D0%BB%D0%B8-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шиели (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/шиели-106443.json"
+        },
+        {
+          "id": "106526",
+          "slug": "яныкурган-106526",
+          "name": "Яныкурган",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106526/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%AF%D0%BD%D1%8B%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Яныкурган (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/яныкурган-106526.json"
+        }
+      ]
+    },
+    {
+      "name": "Mangistauskaya Oblast’",
+      "slug": "mangistauskaya-oblast",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/09",
+      "cityCount": 13,
+      "cities": [
+        {
+          "id": "105492",
+          "slug": "beyneu-105492",
+          "name": "Beyneu",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105492/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Beyneu-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Beyneu (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/beyneu-105492.json"
+        },
+        {
+          "id": "105142",
+          "slug": "актау-105142",
+          "name": "Актау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105142/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D1%82%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Актау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/актау-105142.json"
+        },
+        {
+          "id": "105012",
+          "slug": "баутино-105012",
+          "name": "Баутино",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105012/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B0%D1%83%D1%82%D0%B8%D0%BD%D0%BE-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Баутино (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/баутино-105012.json"
+        },
+        {
+          "id": "105141",
+          "slug": "ералиев-105141",
+          "name": "Ералиев",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105141/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%95%D1%80%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ералиев (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/ералиев-105141.json"
+        },
+        {
+          "id": "105222",
+          "slug": "жанаозен-105222",
+          "name": "Жанаозен",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105222/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%96%D0%B0%D0%BD%D0%B0%D0%BE%D0%B7%D0%B5%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Жанаозен (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/жанаозен-105222.json"
+        },
+        {
+          "id": "105221",
+          "slug": "жетыбай-105221",
+          "name": "Жетыбай",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105221/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%96%D0%B5%D1%82%D1%8B%D0%B1%D0%B0%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Жетыбай (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/жетыбай-105221.json"
+        },
+        {
+          "id": "148864",
+          "slug": "международный-аэропорт-актау-148864",
+          "name": "Международный аэропорт Актау",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/148864/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82-%D0%90%D0%BA%D1%82%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Международный аэропорт Актау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/международный-аэропорт-актау-148864.json"
+        },
+        {
+          "id": "105223",
+          "slug": "мунайши-105223",
+          "name": "Мунайши",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105223/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9C%D1%83%D0%BD%D0%B0%D0%B9%D1%88%D0%B8-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Мунайши (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/мунайши-105223.json"
+        },
+        {
+          "id": "105309",
+          "slug": "сай-утес-105309",
+          "name": "Сай-Утес",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105309/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D0%B0%D0%B9-%D0%A3%D1%82%D0%B5%D1%81-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Сай-Утес (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/сай-утес-105309.json"
+        },
+        {
+          "id": "105144",
+          "slug": "таучик-105144",
+          "name": "Таучик",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105144/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%B0%D1%83%D1%87%D0%B8%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Таучик (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/таучик-105144.json"
+        },
+        {
+          "id": "105143",
+          "slug": "умирзак-105143",
+          "name": "Умирзак",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105143/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A3%D0%BC%D0%B8%D1%80%D0%B7%D0%B0%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Умирзак (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/умирзак-105143.json"
+        },
+        {
+          "id": "105011",
+          "slug": "форт-шевченко-105011",
+          "name": "Форт-Шевченко",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105011/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A4%D0%BE%D1%80%D1%82-%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Форт-Шевченко (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/форт-шевченко-105011.json"
+        },
+        {
+          "id": "105224",
+          "slug": "шетпе-105224",
+          "name": "Шетпе",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105224/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D0%B5%D1%82%D0%BF%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шетпе (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/шетпе-105224.json"
+        }
+      ]
+    },
+    {
+      "name": "Pavlodarskaya Oblast’",
+      "slug": "pavlodarskaya-oblast",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/11",
+      "cityCount": 12,
+      "cities": [
+        {
+          "id": "149003",
+          "slug": "pavlodar-airport-149003",
+          "name": "Pavlodar Airport",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/149003/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2Pavlodar-Airport-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Pavlodar Airport (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/pavlodar-airport-149003.json"
+        },
+        {
+          "id": "108864",
+          "slug": "аксу-108864",
+          "name": "Аксу",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108864/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D1%81%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Аксу (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/аксу-108864.json"
+        },
+        {
+          "id": "108449",
+          "slug": "баянаул-108449",
+          "name": "Баянаул",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108449/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B0%D1%8F%D0%BD%D0%B0%D1%83%D0%BB-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Баянаул (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/баянаул-108449.json"
+        },
+        {
+          "id": "109305",
+          "slug": "белогорье-109305",
+          "name": "Белогорье",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109305/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%8C%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Белогорье (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/белогорье-109305.json"
+        },
+        {
+          "id": "108453",
+          "slug": "железинка-108453",
+          "name": "Железинка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108453/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%B8%D0%BD%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Железинка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/железинка-108453.json"
+        },
+        {
+          "id": "108452",
+          "slug": "иртышск-108452",
+          "name": "Иртышск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108452/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%98%D1%80%D1%82%D1%8B%D1%88%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Иртышск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/иртышск-108452.json"
+        },
+        {
+          "id": "108863",
+          "slug": "калкаман-108863",
+          "name": "Калкаман",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108863/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D0%BB%D0%BA%D0%B0%D0%BC%D0%B0%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Калкаман (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/калкаман-108863.json"
+        },
+        {
+          "id": "108867",
+          "slug": "качиры-108867",
+          "name": "Качиры",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108867/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D1%87%D0%B8%D1%80%D1%8B-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Качиры (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/качиры-108867.json"
+        },
+        {
+          "id": "108866",
+          "slug": "ленинский-108866",
+          "name": "Ленинский",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108866/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ленинский (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/ленинский-108866.json"
+        },
+        {
+          "id": "108451",
+          "slug": "майкайн-108451",
+          "name": "Майкайн",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108451/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9C%D0%B0%D0%B9%D0%BA%D0%B0%D0%B9%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Майкайн (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/майкайн-108451.json"
+        },
+        {
+          "id": "108865",
+          "slug": "павлодар-108865",
+          "name": "Павлодар",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108865/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B4%D0%B0%D1%80-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Павлодар (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/павлодар-108865.json"
+        },
+        {
+          "id": "108450",
+          "slug": "экибастуз-108450",
+          "name": "Экибастуз",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108450/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%AD%D0%BA%D0%B8%D0%B1%D0%B0%D1%81%D1%82%D1%83%D0%B7-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Экибастуз (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/экибастуз-108450.json"
+        }
+      ]
+    },
+    {
+      "name": "Акмолинская область",
+      "slug": "акмолинская-область",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/03",
+      "cityCount": 23,
+      "cities": [
+        {
+          "id": "148965",
+          "slug": "astana-international-airport-148965",
+          "name": "Astana International Airport",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/148965/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2Astana-International-Airport-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Astana International Airport (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/astana-international-airport-148965.json"
+        },
+        {
+          "id": "106916",
+          "slug": "astrakhan-106916",
+          "name": "Astrakhan",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106916/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Astrakhan-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Astrakhan (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/astrakhan-106916.json"
+        },
+        {
+          "id": "106446",
+          "slug": "derzhav-nsk-106446",
+          "name": "Derzhavīnsk",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106446/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Derzhav%C4%ABnsk-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Derzhavīnsk (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/derzhav-nsk-106446.json"
+        },
+        {
+          "id": "106917",
+          "slug": "egindik-l-106917",
+          "name": "Egindiköl",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106917/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Egindik%C3%B6l-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Egindiköl (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/egindik-l-106917.json"
+        },
+        {
+          "id": "107079",
+          "slug": "shortandy-107079",
+          "name": "Shortandy",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107079/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Shortandy-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Shortandy (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/shortandy-107079.json"
+        },
+        {
+          "id": "106445",
+          "slug": "yesil-106445",
+          "name": "Yesil’",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106445/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Yesil%E2%80%99-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Yesil’ (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/yesil-106445.json"
+        },
+        {
+          "id": "106529",
+          "slug": "zhaqsy-106529",
+          "name": "Zhaqsy",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106529/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Zhaqsy-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Zhaqsy (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/zhaqsy-106529.json"
+        },
+        {
+          "id": "107258",
+          "slug": "zholymbet-107258",
+          "name": "Zholymbet",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107258/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Zholymbet-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Zholymbet (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/zholymbet-107258.json"
+        },
+        {
+          "id": "106918",
+          "slug": "акколь-106918",
+          "name": "Акколь",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106918/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D0%BA%D0%BE%D0%BB%D1%8C-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Акколь (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/акколь-106918.json"
+        },
+        {
+          "id": "107259",
+          "slug": "аксу-107259",
+          "name": "Аксу",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107259/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D1%81%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Аксу (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/аксу-107259.json"
+        },
+        {
+          "id": "107078",
+          "slug": "алексеевка-107078",
+          "name": "Алексеевка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107078/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Алексеевка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/алексеевка-107078.json"
+        },
+        {
+          "id": "106717",
+          "slug": "атбасар-106717",
+          "name": "Атбасар",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106717/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D1%82%D0%B1%D0%B0%D1%81%D0%B0%D1%80-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Атбасар (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/атбасар-106717.json"
+        },
+        {
+          "id": "106718",
+          "slug": "балкашино-106718",
+          "name": "Балкашино",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106718/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B0%D0%BB%D0%BA%D0%B0%D1%88%D0%B8%D0%BD%D0%BE-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Балкашино (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/балкашино-106718.json"
+        },
+        {
+          "id": "107803",
+          "slug": "бестобе-107803",
+          "name": "Бестобе",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107803/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B5%D1%81%D1%82%D0%BE%D0%B1%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Бестобе (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/бестобе-107803.json"
+        },
+        {
+          "id": "107802",
+          "slug": "ерейментау-107802",
+          "name": "Ерейментау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107802/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%95%D1%80%D0%B5%D0%B9%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ерейментау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/ерейментау-107802.json"
+        },
+        {
+          "id": "107481",
+          "slug": "заводской-107481",
+          "name": "Заводской",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107481/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%97%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Заводской (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/заводской-107481.json"
+        },
+        {
+          "id": "106920",
+          "slug": "кокшетау-106920",
+          "name": "Кокшетау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106920/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%BE%D0%BA%D1%88%D0%B5%D1%82%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Кокшетау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/кокшетау-106920.json"
+        },
+        {
+          "id": "106447",
+          "slug": "красногорский-106447",
+          "name": "Красногорский",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106447/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Красногорский (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/красногорский-106447.json"
+        },
+        {
+          "id": "107082",
+          "slug": "макинск-107082",
+          "name": "Макинск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107082/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9C%D0%B0%D0%BA%D0%B8%D0%BD%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Макинск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/макинск-107082.json"
+        },
+        {
+          "id": "107260",
+          "slug": "степногорск-107260",
+          "name": "Степногорск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107260/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D1%82%D0%B5%D0%BF%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Степногорск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/степногорск-107260.json"
+        },
+        {
+          "id": "107080",
+          "slug": "степняк-107080",
+          "name": "Степняк",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107080/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D1%82%D0%B5%D0%BF%D0%BD%D1%8F%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Степняк (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/степняк-107080.json"
+        },
+        {
+          "id": "106719",
+          "slug": "шантобе-106719",
+          "name": "Шантобе",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106719/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D0%B0%D0%BD%D1%82%D0%BE%D0%B1%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шантобе (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/шантобе-106719.json"
+        },
+        {
+          "id": "107081",
+          "slug": "щучинск-107081",
+          "name": "Щучинск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107081/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A9%D1%83%D1%87%D0%B8%D0%BD%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Щучинск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/щучинск-107081.json"
+        }
+      ]
+    },
+    {
+      "name": "Актюбинская область",
+      "slug": "актюбинская-область",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/04",
+      "cityCount": 13,
+      "cities": [
+        {
+          "id": "148907",
+          "slug": "aktjubinsk-148907",
+          "name": "Aktjubinsk",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/148907/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2Aktjubinsk-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Aktjubinsk (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/aktjubinsk-148907.json"
+        },
+        {
+          "id": "105748",
+          "slug": "актобе-105748",
+          "name": "Актобе",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105748/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D1%82%D0%BE%D0%B1%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Актобе (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/актобе-105748.json"
+        },
+        {
+          "id": "105493",
+          "slug": "байганин-105493",
+          "name": "Байганин",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105493/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B0%D0%B9%D0%B3%D0%B0%D0%BD%D0%B8%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Байганин (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/байганин-105493.json"
+        },
+        {
+          "id": "105826",
+          "slug": "батамшинский-105826",
+          "name": "Батамшинский",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105826/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B0%D1%82%D0%B0%D0%BC%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Батамшинский (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/батамшинский-105826.json"
+        },
+        {
+          "id": "106089",
+          "slug": "иргиз-106089",
+          "name": "Иргиз",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106089/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%98%D1%80%D0%B3%D0%B8%D0%B7-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Иргиз (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/иргиз-106089.json"
+        },
+        {
+          "id": "105747",
+          "slug": "кандыагаш-105747",
+          "name": "Кандыагаш",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105747/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D0%BD%D0%B4%D1%8B%D0%B0%D0%B3%D0%B0%D1%88-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Кандыагаш (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/кандыагаш-105747.json"
+        },
+        {
+          "id": "105570",
+          "slug": "мартук-105570",
+          "name": "Мартук",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105570/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9C%D0%B0%D1%80%D1%82%D1%83%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Мартук (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/мартук-105570.json"
+        },
+        {
+          "id": "105746",
+          "slug": "темир-105746",
+          "name": "Темир",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105746/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%B5%D0%BC%D0%B8%D1%80-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Темир (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/темир-105746.json"
+        },
+        {
+          "id": "105825",
+          "slug": "хромтау-105825",
+          "name": "Хромтау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105825/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A5%D1%80%D0%BE%D0%BC%D1%82%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Хромтау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/хромтау-105825.json"
+        },
+        {
+          "id": "105901",
+          "slug": "шалкар-105901",
+          "name": "Шалкар",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105901/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D0%B0%D0%BB%D0%BA%D0%B0%D1%80-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шалкар (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/шалкар-105901.json"
+        },
+        {
+          "id": "105569",
+          "slug": "шубаркудук-105569",
+          "name": "Шубаркудук",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105569/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D1%83%D0%B1%D0%B0%D1%80%D0%BA%D1%83%D0%B4%D1%83%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шубаркудук (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/шубаркудук-105569.json"
+        },
+        {
+          "id": "105745",
+          "slug": "шубарши-105745",
+          "name": "Шубарши",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105745/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D1%83%D0%B1%D0%B0%D1%80%D1%88%D0%B8-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шубарши (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/шубарши-105745.json"
+        },
+        {
+          "id": "105824",
+          "slug": "эмба-105824",
+          "name": "Эмба",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105824/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%AD%D0%BC%D0%B1%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Эмба (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/эмба-105824.json"
+        }
+      ]
+    },
+    {
+      "name": "Алматинская Область",
+      "slug": "алматинская-область",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/01",
+      "cityCount": 22,
+      "cities": [
+        {
+          "id": "108861",
+          "slug": "bakanas-108861",
+          "name": "Bakanas",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108861/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Bakanas-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Bakanas (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/bakanas-108861.json"
+        },
+        {
+          "id": "109681",
+          "slug": "balpyk-b-109681",
+          "name": "Balpyk Bī",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109681/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Balpyk-B%C4%AB-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Balpyk Bī (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/balpyk-b-109681.json"
+        },
+        {
+          "id": "110051",
+          "slug": "kegen-110051",
+          "name": "Kegen",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110051/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Kegen-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Kegen (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/kegen-110051.json"
+        },
+        {
+          "id": "109684",
+          "slug": "lepsy-109684",
+          "name": "Lepsy",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109684/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Lepsy-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Lepsy (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/lepsy-109684.json"
+        },
+        {
+          "id": "109683",
+          "slug": "matay-109683",
+          "name": "Matay",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109683/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Matay-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Matay (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/matay-109683.json"
+        },
+        {
+          "id": "109299",
+          "slug": "talghar-109299",
+          "name": "Talghar",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109299/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Talghar-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Talghar (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/talghar-109299.json"
+        },
+        {
+          "id": "107790",
+          "slug": "lken-107790",
+          "name": "Ülken",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107790/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%C3%9Clken-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ülken (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/lken-107790.json"
+        },
+        {
+          "id": "108858",
+          "slug": "бурундай-108858",
+          "name": "Бурундай",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108858/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D1%83%D1%80%D1%83%D0%BD%D0%B4%D0%B0%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Бурундай (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/бурундай-108858.json"
+        },
+        {
+          "id": "110638",
+          "slug": "дружба-110638",
+          "name": "Дружба",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110638/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%94%D1%80%D1%83%D0%B6%D0%B1%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Дружба (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/дружба-110638.json"
+        },
+        {
+          "id": "109296",
+          "slug": "есик-109296",
+          "name": "Есик",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109296/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%95%D1%81%D0%B8%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Есик (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/есик-109296.json"
+        },
+        {
+          "id": "110298",
+          "slug": "жаркент-110298",
+          "name": "Жаркент",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110298/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%96%D0%B0%D1%80%D0%BA%D0%B5%D0%BD%D1%82-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Жаркент (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/жаркент-110298.json"
+        },
+        {
+          "id": "109300",
+          "slug": "капшагай-109300",
+          "name": "Капшагай",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109300/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D0%BF%D1%88%D0%B0%D0%B3%D0%B0%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Капшагай (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/капшагай-109300.json"
+        },
+        {
+          "id": "149002",
+          "slug": "международный-аэропорт-алматы-149002",
+          "name": "Международный Аэропорт «Алматы»",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/149002/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D0%90%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82-%C2%AB%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B%C2%BB-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Международный Аэропорт «Алматы» (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/международный-аэропорт-алматы-149002.json"
+        },
+        {
+          "id": "108860",
+          "slug": "первомайское-108860",
+          "name": "Первомайское",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108860/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Первомайское (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/первомайское-108860.json"
+        },
+        {
+          "id": "110052",
+          "slug": "сарканд-110052",
+          "name": "Сарканд",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110052/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Сарканд (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/сарканд-110052.json"
+        },
+        {
+          "id": "109301",
+          "slug": "сарыозек-109301",
+          "name": "Сарыозек",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109301/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D0%B0%D1%80%D1%8B%D0%BE%D0%B7%D0%B5%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Сарыозек (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/сарыозек-109301.json"
+        },
+        {
+          "id": "109303",
+          "slug": "талды-курган-109303",
+          "name": "Талды - Курган",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109303/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B---%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Талды - Курган (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/талды-курган-109303.json"
+        },
+        {
+          "id": "109682",
+          "slug": "талдыкорган-109682",
+          "name": "Талдыкорган",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109682/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%D0%BE%D1%80%D0%B3%D0%B0%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Талдыкорган (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/талдыкорган-109682.json"
+        },
+        {
+          "id": "109680",
+          "slug": "текели-109680",
+          "name": "Текели",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109680/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%B5%D0%BA%D0%B5%D0%BB%D0%B8-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Текели (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/текели-109680.json"
+        },
+        {
+          "id": "109298",
+          "slug": "турген-109298",
+          "name": "Турген",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109298/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Турген (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/турген-109298.json"
+        },
+        {
+          "id": "109302",
+          "slug": "уштобе-109302",
+          "name": "Уштобе",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109302/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A3%D1%88%D1%82%D0%BE%D0%B1%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Уштобе (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/уштобе-109302.json"
+        },
+        {
+          "id": "109297",
+          "slug": "энергетический-109297",
+          "name": "Энергетический",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109297/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9E%D1%82%D0%B5%D0%B3%D0%B5%D0%BD-%D0%91%D0%B0%D1%82%D1%8B%D1%80%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Отеген Батыра (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/энергетический-109297.json"
+        }
+      ]
+    },
+    {
+      "name": "Атырауская область",
+      "slug": "атырауская-область",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/06",
+      "cityCount": 13,
+      "cities": [
+        {
+          "id": "148865",
+          "slug": "atyrau-airport-148865",
+          "name": "Atyrau Airport",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/148865/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2Atyrau-Airport-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Atyrau Airport (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/atyrau-airport-148865.json"
+        },
+        {
+          "id": "105313",
+          "slug": "акколь-105313",
+          "name": "Акколь",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105313/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D0%BA%D0%BE%D0%BB%D1%8C-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Акколь (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/акколь-105313.json"
+        },
+        {
+          "id": "105147",
+          "slug": "атырау-105147",
+          "name": "Атырау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105147/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D1%82%D1%8B%D1%80%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Атырау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/атырау-105147.json"
+        },
+        {
+          "id": "105226",
+          "slug": "байчунас-105226",
+          "name": "Байчунас",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105226/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B0%D0%B9%D1%87%D1%83%D0%BD%D0%B0%D1%81-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Байчунас (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/байчунас-105226.json"
+        },
+        {
+          "id": "105146",
+          "slug": "балыкши-105146",
+          "name": "Балыкши",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105146/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B0%D0%BB%D1%8B%D0%BA%D1%88%D0%B8-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Балыкши (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/балыкши-105146.json"
+        },
+        {
+          "id": "105225",
+          "slug": "доссор-105225",
+          "name": "Доссор",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105225/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%94%D0%BE%D1%81%D1%81%D0%BE%D1%80-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Доссор (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/доссор-105225.json"
+        },
+        {
+          "id": "105148",
+          "slug": "индерборский-105148",
+          "name": "Индерборский",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105148/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%98%D0%BD%D0%B4%D0%B5%D1%80%D0%B1%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Индерборский (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/индерборский-105148.json"
+        },
+        {
+          "id": "105310",
+          "slug": "каратон-105310",
+          "name": "Каратон",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105310/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Каратон (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/каратон-105310.json"
+        },
+        {
+          "id": "105387",
+          "slug": "кульсары-105387",
+          "name": "Кульсары",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105387/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D1%83%D0%BB%D1%8C%D1%81%D0%B0%D1%80%D1%8B-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Кульсары (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/кульсары-105387.json"
+        },
+        {
+          "id": "105311",
+          "slug": "макат-105311",
+          "name": "Макат",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105311/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9C%D0%B0%D0%BA%D0%B0%D1%82-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Макат (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/макат-105311.json"
+        },
+        {
+          "id": "105145",
+          "slug": "махамбет-105145",
+          "name": "Махамбет",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105145/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9C%D0%B0%D1%85%D0%B0%D0%BC%D0%B1%D0%B5%D1%82-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Махамбет (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/махамбет-105145.json"
+        },
+        {
+          "id": "105312",
+          "slug": "миялы-105312",
+          "name": "Миялы",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105312/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9C%D0%B8%D1%8F%D0%BB%D1%8B-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Миялы (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/миялы-105312.json"
+        },
+        {
+          "id": "104697",
+          "slug": "шалкар-104697",
+          "name": "Шалкар",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/104697/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D0%B0%D0%BB%D0%BA%D0%B0%D1%80-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шалкар (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/шалкар-104697.json"
+        }
+      ]
+    },
+    {
+      "name": "Байконыр",
+      "slug": "байконыр",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/08",
+      "cityCount": 2,
+      "cities": [
+        {
+          "id": "106214",
+          "slug": "байконур-106214",
+          "name": "Байконур",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106214/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B0%D0%B9%D0%BA%D0%BE%D0%BD%D1%83%D1%80-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Байконур (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/байконур-106214.json"
+        },
+        {
+          "id": "106213",
+          "slug": "торетам-106213",
+          "name": "Торетам",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106213/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%BE%D1%80%D0%B5%D1%82%D0%B0%D0%BC-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Торетам (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/торетам-106213.json"
+        }
+      ]
+    },
+    {
+      "name": "Восточно-Казахстанская область",
+      "slug": "восточно-казахстанская-область",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/15",
+      "cityCount": 31,
+      "cities": [
+        {
+          "id": "110053",
+          "slug": "aqtoghay-110053",
+          "name": "Aqtoghay",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110053/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Aqtoghay-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Aqtoghay (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/aqtoghay-110053.json"
+        },
+        {
+          "id": "110299",
+          "slug": "ayagoz-110299",
+          "name": "Ayagoz",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110299/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Ayagoz-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ayagoz (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/ayagoz-110299.json"
+        },
+        {
+          "id": "110495",
+          "slug": "priisk-boko-110495",
+          "name": "Priisk Boko",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110495/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Priisk-Boko-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Priisk Boko (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/priisk-boko-110495.json"
+        },
+        {
+          "id": "110971",
+          "slug": "t-ghyl-110971",
+          "name": "Tūghyl",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110971/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-T%C5%ABghyl-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Tūghyl (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/t-ghyl-110971.json"
+        },
+        {
+          "id": "110493",
+          "slug": "urzhar-110493",
+          "name": "Urzhar",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110493/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Urzhar-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Urzhar (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/urzhar-110493.json"
+        },
+        {
+          "id": "110970",
+          "slug": "zaysan-110970",
+          "name": "Zaysan",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110970/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Zaysan-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Zaysan (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/zaysan-110970.json"
+        },
+        {
+          "id": "110644",
+          "slug": "алтайский-110644",
+          "name": "Алтайский",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110644/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BB%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Алтайский (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/алтайский-110644.json"
+        },
+        {
+          "id": "110803",
+          "slug": "асубулак-110803",
+          "name": "Асубулак",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110803/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D1%81%D1%83%D0%B1%D1%83%D0%BB%D0%B0%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Асубулак (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/асубулак-110803.json"
+        },
+        {
+          "id": "110496",
+          "slug": "ауэзов-110496",
+          "name": "Ауэзов",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110496/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D1%83%D1%8D%D0%B7%D0%BE%D0%B2-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ауэзов (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/ауэзов-110496.json"
+        },
+        {
+          "id": "149021",
+          "slug": "аэропорт-усть-каменогорск-149021",
+          "name": "Аэропорт Усть-Каменогорск",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/149021/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2%D0%90%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82-%D0%A3%D1%81%D1%82%D1%8C-%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Аэропорт Усть-Каменогорск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/аэропорт-усть-каменогорск-149021.json"
+        },
+        {
+          "id": "110802",
+          "slug": "белогорский-110802",
+          "name": "Белогорский",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110802/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Белогорский (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/белогорский-110802.json"
+        },
+        {
+          "id": "110643",
+          "slug": "белоусовка-110643",
+          "name": "Белоусовка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110643/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B5%D0%BB%D0%BE%D1%83%D1%81%D0%BE%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Белоусовка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/белоусовка-110643.json"
+        },
+        {
+          "id": "110300",
+          "slug": "бородулиха-110300",
+          "name": "Бородулиха",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110300/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%D1%85%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Бородулиха (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/бородулиха-110300.json"
+        },
+        {
+          "id": "110494",
+          "slug": "георгиевка-110494",
+          "name": "Георгиевка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110494/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Георгиевка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/георгиевка-110494.json"
+        },
+        {
+          "id": "110642",
+          "slug": "глубокое-110642",
+          "name": "Глубокое",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110642/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%93%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%BE%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Глубокое (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/глубокое-110642.json"
+        },
+        {
+          "id": "110497",
+          "slug": "жангизтобе-110497",
+          "name": "Жангизтобе",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110497/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%96%D0%B0%D0%BD%D0%B3%D0%B8%D0%B7%D1%82%D0%BE%D0%B1%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Жангизтобе (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/жангизтобе-110497.json"
+        },
+        {
+          "id": "110501",
+          "slug": "жезкент-110501",
+          "name": "Жезкент",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110501/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%96%D0%B5%D0%B7%D0%BA%D0%B5%D0%BD%D1%82-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Жезкент (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/жезкент-110501.json"
+        },
+        {
+          "id": "110973",
+          "slug": "зыряновск-110973",
+          "name": "Зыряновск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110973/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%97%D1%8B%D1%80%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Зыряновск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/зыряновск-110973.json"
+        },
+        {
+          "id": "110054",
+          "slug": "караул-110054",
+          "name": "Караул",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110054/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D1%80%D0%B0%D1%83%D0%BB-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Караул (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/караул-110054.json"
+        },
+        {
+          "id": "109686",
+          "slug": "курчатов-109686",
+          "name": "Курчатов",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109686/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D1%83%D1%80%D1%87%D0%B0%D1%82%D0%BE%D0%B2-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Курчатов (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/курчатов-109686.json"
+        },
+        {
+          "id": "110801",
+          "slug": "курчум-110801",
+          "name": "Курчум",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110801/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D1%83%D1%80%D1%87%D1%83%D0%BC-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Курчум (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/курчум-110801.json"
+        },
+        {
+          "id": "110807",
+          "slug": "лениногорск-110807",
+          "name": "Лениногорск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110807/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Лениногорск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/лениногорск-110807.json"
+        },
+        {
+          "id": "110972",
+          "slug": "малеевск-110972",
+          "name": "Малеевск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110972/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9C%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Малеевск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/малеевск-110972.json"
+        },
+        {
+          "id": "107787",
+          "slug": "мерке-107787",
+          "name": "Мерке",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107787/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9C%D0%B5%D1%80%D0%BA%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Мерке (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/мерке-107787.json"
+        },
+        {
+          "id": "110806",
+          "slug": "новая-бухтарма-110806",
+          "name": "Новая Бухтарма",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110806/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F-%D0%91%D1%83%D1%85%D1%82%D0%B0%D1%80%D0%BC%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Новая Бухтарма (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/новая-бухтарма-110806.json"
+        },
+        {
+          "id": "110805",
+          "slug": "огневка-110805",
+          "name": "Огневка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110805/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9E%D0%B3%D0%BD%D0%B5%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Огневка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/огневка-110805.json"
+        },
+        {
+          "id": "110301",
+          "slug": "семей-110301",
+          "name": "Семей",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110301/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Семей (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/семей-110301.json"
+        },
+        {
+          "id": "110641",
+          "slug": "усть-каменогорск-110641",
+          "name": "Усть-Каменогорск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110641/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A3%D1%81%D1%82%D1%8C-%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Усть-Каменогорск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/усть-каменогорск-110641.json"
+        },
+        {
+          "id": "110502",
+          "slug": "усть-таловка-110502",
+          "name": "Усть-Таловка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110502/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A3%D1%81%D1%82%D1%8C-%D0%A2%D0%B0%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Усть-Таловка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/усть-таловка-110502.json"
+        },
+        {
+          "id": "110499",
+          "slug": "чарск-110499",
+          "name": "Чарск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110499/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A7%D0%B0%D1%80%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Чарск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/чарск-110499.json"
+        },
+        {
+          "id": "110503",
+          "slug": "шемонаиха-110503",
+          "name": "Шемонаиха",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/110503/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D0%B5%D0%BC%D0%BE%D0%BD%D0%B0%D0%B8%D1%85%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шемонаиха (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/шемонаиха-110503.json"
+        }
+      ]
+    },
+    {
+      "name": "Город Алматы",
+      "slug": "город-алматы",
+      "type": "special-city",
+      "url": "https://ru.weatherspark.com/y/108859/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+      "cityCount": 1,
+      "cities": [
+        {
+          "id": "108859",
+          "slug": "алматы-108859",
+          "name": "Алматы",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108859/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Алматы (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/алматы-108859.json"
+        }
+      ]
+    },
+    {
+      "name": "Город Астана",
+      "slug": "город-астана",
+      "type": "special-city",
+      "url": "https://ru.weatherspark.com/y/107257/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+      "cityCount": 1,
+      "cities": [
+        {
+          "id": "107257",
+          "slug": "астана-107257",
+          "name": "Астана",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107257/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Астана (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/астана-107257.json"
+        }
+      ]
+    },
+    {
+      "name": "Жамбылская область",
+      "slug": "жамбылская-область",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/17",
+      "cityCount": 16,
+      "cities": [
+        {
+          "id": "107468",
+          "slug": "aqbaqay-107468",
+          "name": "Aqbaqay",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107468/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Aqbaqay-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Aqbaqay (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/aqbaqay-107468.json"
+        },
+        {
+          "id": "107789",
+          "slug": "khanta-107789",
+          "name": "Khantaū",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107789/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Khanta%C5%AB-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Khantaū (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/khanta-107789.json"
+        },
+        {
+          "id": "107467",
+          "slug": "moyynkum-107467",
+          "name": "Moyynkum",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107467/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Moyynkum-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Moyynkum (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/moyynkum-107467.json"
+        },
+        {
+          "id": "107791",
+          "slug": "mynaral-107791",
+          "name": "Mynaral",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107791/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Mynaral-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Mynaral (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/mynaral-107791.json"
+        },
+        {
+          "id": "107786",
+          "slug": "oytal-107786",
+          "name": "Oytal",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107786/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Oytal-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Oytal (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/oytal-107786.json"
+        },
+        {
+          "id": "107076",
+          "slug": "shyghanaq-107076",
+          "name": "Shyghanaq",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107076/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Shyghanaq-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Shyghanaq (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/shyghanaq-107076.json"
+        },
+        {
+          "id": "148964",
+          "slug": "taraz-airport-148964",
+          "name": "Taraz Airport",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/148964/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2Taraz-Airport-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Taraz Airport (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/taraz-airport-148964.json"
+        },
+        {
+          "id": "108099",
+          "slug": "георгиевка-108099",
+          "name": "Георгиевка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108099/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Георгиевка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/георгиевка-108099.json"
+        },
+        {
+          "id": "107782",
+          "slug": "гранитогорск-107782",
+          "name": "Гранитогорск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107782/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%93%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Гранитогорск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/гранитогорск-107782.json"
+        },
+        {
+          "id": "106915",
+          "slug": "жанатас-106915",
+          "name": "Жанатас",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106915/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%96%D0%B0%D0%BD%D0%B0%D1%82%D0%B0%D1%81-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Жанатас (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/жанатас-106915.json"
+        },
+        {
+          "id": "107075",
+          "slug": "каратау-107075",
+          "name": "Каратау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107075/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Каратау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/каратау-107075.json"
+        },
+        {
+          "id": "107465",
+          "slug": "луговое-107465",
+          "name": "Луговое",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107465/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9B%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Луговое (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/луговое-107465.json"
+        },
+        {
+          "id": "107466",
+          "slug": "луговой-107466",
+          "name": "Луговой",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107466/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9B%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Луговой (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/луговой-107466.json"
+        },
+        {
+          "id": "107253",
+          "slug": "михайловка-107253",
+          "name": "Михайловка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107253/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Михайловка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/михайловка-107253.json"
+        },
+        {
+          "id": "107252",
+          "slug": "тараз-107252",
+          "name": "Тараз",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107252/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%B0%D1%80%D0%B0%D0%B7-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Тараз (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/тараз-107252.json"
+        },
+        {
+          "id": "107788",
+          "slug": "чу-107788",
+          "name": "Чу",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107788/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шу (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/чу-107788.json"
+        }
+      ]
+    },
+    {
+      "name": "Западно-Казахстанская область",
+      "slug": "западно-казахстанская-область",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/07",
+      "cityCount": 12,
+      "cities": [
+        {
+          "id": "105230",
+          "slug": "аксай-105230",
+          "name": "Аксай",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105230/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D1%81%D0%B0%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Аксай (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/аксай-105230.json"
+        },
+        {
+          "id": "105229",
+          "slug": "бурлин-105229",
+          "name": "Бурлин",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105229/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D1%83%D1%80%D0%BB%D0%B8%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Бурлин (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/бурлин-105229.json"
+        },
+        {
+          "id": "105227",
+          "slug": "джамбейты-105227",
+          "name": "Джамбейты",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105227/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%94%D0%B6%D0%B0%D0%BC%D0%B1%D0%B5%D0%B9%D1%82%D1%8B-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Джамбейты (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/джамбейты-105227.json"
+        },
+        {
+          "id": "104194",
+          "slug": "джаныбек-104194",
+          "name": "Джаныбек",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/104194/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%94%D0%B6%D0%B0%D0%BD%D1%8B%D0%B1%D0%B5%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Джаныбек (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/джаныбек-104194.json"
+        },
+        {
+          "id": "104698",
+          "slug": "казталовка-104698",
+          "name": "Казталовка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/104698/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D0%B7%D1%82%D0%B0%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Казталовка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/казталовка-104698.json"
+        },
+        {
+          "id": "105016",
+          "slug": "каменка-105016",
+          "name": "Каменка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105016/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Каменка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/каменка-105016.json"
+        },
+        {
+          "id": "105151",
+          "slug": "круглоозерное-105151",
+          "name": "Круглоозерное",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105151/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D1%80%D1%83%D0%B3%D0%BB%D0%BE%D0%BE%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Круглоозерное (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/круглоозерное-105151.json"
+        },
+        {
+          "id": "105015",
+          "slug": "переметное-105015",
+          "name": "Переметное",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105015/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Переметное (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/переметное-105015.json"
+        },
+        {
+          "id": "105150",
+          "slug": "уральск-105150",
+          "name": "Уральск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105150/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Уральск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/уральск-105150.json"
+        },
+        {
+          "id": "105152",
+          "slug": "федоровка-105152",
+          "name": "Федоровка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105152/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Федоровка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/федоровка-105152.json"
+        },
+        {
+          "id": "105149",
+          "slug": "чапаев-105149",
+          "name": "Чапаев",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105149/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A7%D0%B0%D0%BF%D0%B0%D0%B5%D0%B2-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Чапаев (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/чапаев-105149.json"
+        },
+        {
+          "id": "105393",
+          "slug": "чингирлау-105393",
+          "name": "Чингирлау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/105393/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A7%D0%B8%D0%BD%D0%B3%D0%B8%D1%80%D0%BB%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Чингирлау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/чингирлау-105393.json"
+        }
+      ]
+    },
+    {
+      "name": "Карагандинская область",
+      "slug": "карагандинская-область",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/12",
+      "cityCount": 37,
+      "cities": [
+        {
+          "id": "108446",
+          "slug": "aktogay-108446",
+          "name": "Aktogay",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108446/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Aktogay-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Aktogay (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/aktogay-108446.json"
+        },
+        {
+          "id": "107469",
+          "slug": "aqadyr-107469",
+          "name": "Aqadyr",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107469/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Aqadyr-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Aqadyr (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/aqadyr-107469.json"
+        },
+        {
+          "id": "107255",
+          "slug": "atas-107255",
+          "name": "Atasū",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107255/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Atas%C5%AB-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Atasū (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/atas-107255.json"
+        },
+        {
+          "id": "107472",
+          "slug": "dolinka-107472",
+          "name": "Dolinka",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107472/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Dolinka-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Dolinka (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/dolinka-107472.json"
+        },
+        {
+          "id": "148976",
+          "slug": "karaganda-airport-148976",
+          "name": "Karaganda Airport",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/148976/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2Karaganda-Airport-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Karaganda Airport (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/karaganda-airport-148976.json"
+        },
+        {
+          "id": "107798",
+          "slug": "koktal-107798",
+          "name": "Koktal",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107798/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Koktal-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Koktal (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/koktal-107798.json"
+        },
+        {
+          "id": "107256",
+          "slug": "k-evka-107256",
+          "name": "Kīevka",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107256/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-K%C4%ABevka-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Kīevka (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/k-evka-107256.json"
+        },
+        {
+          "id": "107794",
+          "slug": "moyynty-107794",
+          "name": "Moyynty",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107794/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Moyynty-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Moyynty (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/moyynty-107794.json"
+        },
+        {
+          "id": "107477",
+          "slug": "novodolinskiy-107477",
+          "name": "Novodolinskiy",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107477/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Novodolinskiy-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Novodolinskiy (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/novodolinskiy-107477.json"
+        },
+        {
+          "id": "107480",
+          "slug": "osakarovka-107480",
+          "name": "Osakarovka",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107480/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Osakarovka-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Osakarovka (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/osakarovka-107480.json"
+        },
+        {
+          "id": "107793",
+          "slug": "saryshaghan-107793",
+          "name": "Saryshaghan",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107793/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Saryshaghan-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Saryshaghan (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/saryshaghan-107793.json"
+        },
+        {
+          "id": "109304",
+          "slug": "sayaq-109304",
+          "name": "Sayaq",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/109304/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Sayaq-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Sayaq (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/sayaq-109304.json"
+        },
+        {
+          "id": "108445",
+          "slug": "shash-bay-108445",
+          "name": "Shashūbay",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108445/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Shash%C5%ABbay-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Shashūbay (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/shash-bay-108445.json"
+        },
+        {
+          "id": "106716",
+          "slug": "shubark-l-106716",
+          "name": "Shubarköl",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106716/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Shubark%C3%B6l-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Shubarköl (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/shubark-l-106716.json"
+        },
+        {
+          "id": "107796",
+          "slug": "verkhniye-kayrakty-107796",
+          "name": "Verkhniye Kayrakty",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107796/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Verkhniye-Kayrakty-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Verkhniye Kayrakty (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/verkhniye-kayrakty-107796.json"
+        },
+        {
+          "id": "148947",
+          "slug": "zhezkazgan-airport-148947",
+          "name": "Zhezkazgan Airport",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/148947/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2Zhezkazgan-Airport-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Zhezkazgan Airport (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/zhezkazgan-airport-148947.json"
+        },
+        {
+          "id": "107474",
+          "slug": "абай-107474",
+          "name": "Абай",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107474/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%B1%D0%B0%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Абай (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/абай-107474.json"
+        },
+        {
+          "id": "107795",
+          "slug": "аксу-аюлы-107795",
+          "name": "Аксу-Аюлы",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107795/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D1%81%D1%83-%D0%90%D1%8E%D0%BB%D1%8B-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Аксу-Аюлы (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/аксу-аюлы-107795.json"
+        },
+        {
+          "id": "107473",
+          "slug": "актас-107473",
+          "name": "Актас",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107473/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D1%82%D0%B0%D1%81-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Актас (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/актас-107473.json"
+        },
+        {
+          "id": "107470",
+          "slug": "актау-107470",
+          "name": "Актау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107470/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D1%82%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Актау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/актау-107470.json"
+        },
+        {
+          "id": "107799",
+          "slug": "актау-107799",
+          "name": "Актау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107799/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D1%82%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Актау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/актау-107799.json"
+        },
+        {
+          "id": "108101",
+          "slug": "акшатау-108101",
+          "name": "Акшатау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108101/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D1%88%D0%B0%D1%82%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Акшатау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/акшатау-108101.json"
+        },
+        {
+          "id": "108100",
+          "slug": "балхаш-108100",
+          "name": "Балхаш",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108100/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B0%D0%BB%D1%85%D0%B0%D1%88-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Балхаш (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/балхаш-108100.json"
+        },
+        {
+          "id": "107254",
+          "slug": "джамбул-107254",
+          "name": "Джамбул",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107254/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%94%D0%B6%D0%B0%D0%BC%D0%B1%D1%83%D0%BB-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Джамбул (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/джамбул-107254.json"
+        },
+        {
+          "id": "107471",
+          "slug": "жарык-107471",
+          "name": "Жарык",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107471/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%96%D0%B0%D1%80%D1%8B%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Жарык (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/жарык-107471.json"
+        },
+        {
+          "id": "106528",
+          "slug": "жезказган-106528",
+          "name": "Жезказган",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106528/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%96%D0%B5%D0%B7%D0%BA%D0%B0%D0%B7%D0%B3%D0%B0%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Жезказган (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/жезказган-106528.json"
+        },
+        {
+          "id": "107797",
+          "slug": "караганда-107797",
+          "name": "Караганда",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107797/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Караганда (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/караганда-107797.json"
+        },
+        {
+          "id": "107077",
+          "slug": "каражал-107077",
+          "name": "Каражал",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107077/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D1%80%D0%B0%D0%B6%D0%B0%D0%BB-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Каражал (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/каражал-107077.json"
+        },
+        {
+          "id": "108448",
+          "slug": "каркаралинск-108448",
+          "name": "Каркаралинск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108448/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B0%D1%80%D0%BA%D0%B0%D1%80%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Каркаралинск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/каркаралинск-108448.json"
+        },
+        {
+          "id": "107801",
+          "slug": "кушокы-107801",
+          "name": "Кушокы",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107801/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D1%83%D1%88%D0%BE%D0%BA%D1%8B-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Кушокы (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/кушокы-107801.json"
+        },
+        {
+          "id": "107478",
+          "slug": "кызылжар-107478",
+          "name": "Кызылжар",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107478/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB%D0%B6%D0%B0%D1%80-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Кызылжар (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/кызылжар-107478.json"
+        },
+        {
+          "id": "108447",
+          "slug": "пригородное-108447",
+          "name": "Пригородное",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/108447/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Пригородное (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/пригородное-108447.json"
+        },
+        {
+          "id": "107792",
+          "slug": "приозерск-107792",
+          "name": "Приозерск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107792/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9F%D1%80%D0%B8%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Приозерск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/приозерск-107792.json"
+        },
+        {
+          "id": "107476",
+          "slug": "сарань-107476",
+          "name": "Сарань",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107476/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%8C-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Сарань (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/сарань-107476.json"
+        },
+        {
+          "id": "107479",
+          "slug": "темиртау-107479",
+          "name": "Темиртау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107479/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%B5%D0%BC%D0%B8%D1%80%D1%82%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Темиртау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/темиртау-107479.json"
+        },
+        {
+          "id": "107800",
+          "slug": "токаревка-107800",
+          "name": "Токаревка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107800/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Токаревка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/токаревка-107800.json"
+        },
+        {
+          "id": "107475",
+          "slug": "шахан-107475",
+          "name": "Шахан",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107475/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D0%B0%D1%85%D0%B0%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шахан (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/шахан-107475.json"
+        }
+      ]
+    },
+    {
+      "name": "Северо-Казахстанская область",
+      "slug": "северо-казахстанская-область",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/16",
+      "cityCount": 15,
+      "cities": [
+        {
+          "id": "107482",
+          "slug": "kishkenekol-107482",
+          "name": "Kishkenekol’",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107482/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Kishkenekol%E2%80%99-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Kishkenekol’ (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/kishkenekol-107482.json"
+        },
+        {
+          "id": "150125",
+          "slug": "petropavlosk-south-airport-150125",
+          "name": "Petropavlosk South Airport",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/150125/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2Petropavlosk-South-Airport-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Petropavlosk South Airport (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/petropavlosk-south-airport-150125.json"
+        },
+        {
+          "id": "106720",
+          "slug": "бирлестик-106720",
+          "name": "Бирлестик",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106720/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B8%D1%80%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Бирлестик (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/бирлестик-106720.json"
+        },
+        {
+          "id": "106921",
+          "slug": "бишкуль-106921",
+          "name": "Бишкуль",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106921/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%B8%D1%88%D0%BA%D1%83%D0%BB%D1%8C-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Бишкуль (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/бишкуль-106921.json"
+        },
+        {
+          "id": "107083",
+          "slug": "боровое-107083",
+          "name": "Боровое",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107083/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Боровое (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/боровое-107083.json"
+        },
+        {
+          "id": "107084",
+          "slug": "булаево-107084",
+          "name": "Булаево",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107084/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%91%D1%83%D0%BB%D0%B0%D0%B5%D0%B2%D0%BE-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Булаево (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/булаево-107084.json"
+        },
+        {
+          "id": "106721",
+          "slug": "володарское-106721",
+          "name": "Володарское",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106721/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Володарское (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/володарское-106721.json"
+        },
+        {
+          "id": "106919",
+          "slug": "красноармейск-106919",
+          "name": "Красноармейск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106919/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B0%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Красноармейск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/красноармейск-106919.json"
+        },
+        {
+          "id": "106448",
+          "slug": "новоишимский-106448",
+          "name": "Новоишимский",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106448/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9D%D0%BE%D0%B2%D0%BE%D0%B8%D1%88%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Новоишимский (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/новоишимский-106448.json"
+        },
+        {
+          "id": "106923",
+          "slug": "петропавловск-106923",
+          "name": "Петропавловск",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106923/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Петропавловск (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/петропавловск-106923.json"
+        },
+        {
+          "id": "106530",
+          "slug": "сергеевка-106530",
+          "name": "Сергеевка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106530/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Сергеевка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/сергеевка-106530.json"
+        },
+        {
+          "id": "106922",
+          "slug": "смирново-106922",
+          "name": "Смирново",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106922/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2%D0%BE-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Смирново (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/смирново-106922.json"
+        },
+        {
+          "id": "107261",
+          "slug": "талшик-107261",
+          "name": "Талшик",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107261/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%B0%D0%BB%D1%88%D0%B8%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Талшик (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/талшик-107261.json"
+        },
+        {
+          "id": "106449",
+          "slug": "тимирязево-106449",
+          "name": "Тимирязево",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106449/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%B8%D0%BC%D0%B8%D1%80%D1%8F%D0%B7%D0%B5%D0%B2%D0%BE-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Тимирязево (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/тимирязево-106449.json"
+        },
+        {
+          "id": "106722",
+          "slug": "явленка-106722",
+          "name": "Явленка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106722/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%AF%D0%B2%D0%BB%D0%B5%D0%BD%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Явленка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/явленка-106722.json"
+        }
+      ]
+    },
+    {
+      "name": "Южно-Казахстанская область",
+      "slug": "южно-казахстанская-область",
+      "type": "region",
+      "url": "https://ru.weatherspark.com/countries/KZ/10",
+      "cityCount": 23,
+      "cities": [
+        {
+          "id": "106914",
+          "slug": "bayzhansay-106914",
+          "name": "Bayzhansay",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106914/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-Bayzhansay-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Bayzhansay (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/bayzhansay-106914.json"
+        },
+        {
+          "id": "148957",
+          "slug": "shymkent-airport-148957",
+          "name": "Shymkent Airport",
+          "kind": "airport",
+          "url": "https://ru.weatherspark.com/y/148957/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2Shymkent-Airport-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Shymkent Airport (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/shymkent-airport-148957.json"
+        },
+        {
+          "id": "106907",
+          "slug": "аксу-106907",
+          "name": "Аксу",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106907/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D0%BA%D1%81%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Аксу (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/аксу-106907.json"
+        },
+        {
+          "id": "106712",
+          "slug": "арысь-106712",
+          "name": "Арысь",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106712/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D1%80%D1%8B%D1%81%D1%8C-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Арысь (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/арысь-106712.json"
+        },
+        {
+          "id": "106713",
+          "slug": "ащисай-106713",
+          "name": "Ащисай",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106713/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%90%D1%89%D0%B8%D1%81%D0%B0%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ащисай (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/ащисай-106713.json"
+        },
+        {
+          "id": "107072",
+          "slug": "ванновка-107072",
+          "name": "Ванновка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107072/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%92%D0%B0%D0%BD%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ванновка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/ванновка-107072.json"
+        },
+        {
+          "id": "107073",
+          "slug": "жабаглы-107073",
+          "name": "Жабаглы",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107073/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%96%D0%B0%D0%B1%D0%B0%D0%B3%D0%BB%D1%8B-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Жабаглы (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/жабаглы-107073.json"
+        },
+        {
+          "id": "106697",
+          "slug": "ильич-106697",
+          "name": "Ильич",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106697/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%98%D0%BB%D1%8C%D0%B8%D1%87-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ильич (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/ильич-106697.json"
+        },
+        {
+          "id": "106715",
+          "slug": "кентау-106715",
+          "name": "Кентау",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106715/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B5%D0%BD%D1%82%D0%B0%D1%83-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Кентау (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/кентау-106715.json"
+        },
+        {
+          "id": "106701",
+          "slug": "кировский-106701",
+          "name": "Кировский",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106701/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Кировский (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/кировский-106701.json"
+        },
+        {
+          "id": "106711",
+          "slug": "когам-106711",
+          "name": "Когам",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106711/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%BE%D0%B3%D0%B0%D0%BC-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Когам (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/когам-106711.json"
+        },
+        {
+          "id": "107074",
+          "slug": "коктерек-107074",
+          "name": "Коктерек",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/107074/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9A%D0%BE%D0%BA%D1%82%D0%B5%D1%80%D0%B5%D0%BA-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Коктерек (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/коктерек-107074.json"
+        },
+        {
+          "id": "106911",
+          "slug": "ленгер-106911",
+          "name": "Ленгер",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106911/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9B%D0%B5%D0%BD%D0%B3%D0%B5%D1%80-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ленгер (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/ленгер-106911.json"
+        },
+        {
+          "id": "106895",
+          "slug": "ленинское-106895",
+          "name": "Ленинское",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106895/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Ленинское (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/ленинское-106895.json"
+        },
+        {
+          "id": "106894",
+          "slug": "сарыагаш-106894",
+          "name": "Сарыагаш",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106894/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D0%B0%D1%80%D1%8B%D0%B0%D0%B3%D0%B0%D1%88-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Сарыагаш (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/сарыагаш-106894.json"
+        },
+        {
+          "id": "106910",
+          "slug": "састобе-106910",
+          "name": "Састобе",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106910/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D0%B0%D1%81%D1%82%D0%BE%D0%B1%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Састобе (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/састобе-106910.json"
+        },
+        {
+          "id": "106700",
+          "slug": "славянка-106700",
+          "name": "Славянка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106700/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A1%D0%BB%D0%B0%D0%B2%D1%8F%D0%BD%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Славянка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/славянка-106700.json"
+        },
+        {
+          "id": "106908",
+          "slug": "темирлановка-106908",
+          "name": "Темирлановка",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106908/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D0%B5%D0%BC%D0%B8%D1%80%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Темирлановка (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/темирлановка-106908.json"
+        },
+        {
+          "id": "106714",
+          "slug": "туркестан-106714",
+          "name": "Туркестан",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106714/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Туркестан (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/туркестан-106714.json"
+        },
+        {
+          "id": "106913",
+          "slug": "чаян-106913",
+          "name": "Чаян",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106913/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A7%D0%B0%D1%8F%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Чаян (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/чаян-106913.json"
+        },
+        {
+          "id": "106912",
+          "slug": "чулаккурган-106912",
+          "name": "Чулаккурган",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106912/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A7%D1%83%D0%BB%D0%B0%D0%BA%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Чулаккурган (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/чулаккурган-106912.json"
+        },
+        {
+          "id": "106525",
+          "slug": "шардара-106525",
+          "name": "Шардара",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106525/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D0%B0%D1%80%D0%B4%D0%B0%D1%80%D0%B0-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шардара (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/шардара-106525.json"
+        },
+        {
+          "id": "106909",
+          "slug": "шымкент-106909",
+          "name": "Шымкент",
+          "kind": "city",
+          "url": "https://ru.weatherspark.com/y/106909/%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%A8%D1%8B%D0%BC%D0%BA%D0%B5%D0%BD%D1%82-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%D0%B2%D0%B5%D1%81%D1%8C-%D0%B3%D0%BE%D0%B4",
+          "pageTitle": "Климат, погода по месяцам, средняя температура в Шымкент (Казахстан) - Weather Spark",
+          "sectionCount": 11,
+          "detailPath": "./kz-weather-details/шымкент-106909.json"
+        }
+      ]
+    }
+  ]
+}

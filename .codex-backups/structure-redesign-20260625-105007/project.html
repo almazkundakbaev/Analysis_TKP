@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Анализ проекта | Анализ ТКП</title>
+  <link rel="stylesheet" href="./vendor/weatherspark.css">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body data-page="project">
+  <main class="app-shell">
+    <aside class="sidebar">
+      <section class="brand-panel project-brand">
+        <div>
+          <p class="eyebrow">Анализ проекта</p>
+          <h1>Анализ ТКП</h1>
+          <p class="muted">Навигация по методологии ТКП и ручным главам проекта.</p>
+        </div>
+        <a class="ghost-link back-link" href="./projects.html">Назад</a>
+      </section>
+
+      <nav id="method-nav" class="method-nav" aria-label="Разделы ТКП"></nav>
+    </aside>
+
+    <section class="workbench">
+      <header class="site-topbar project-site-topbar">
+        <a class="ghost-link back-link" href="./projects.html">Назад</a>
+        <form class="site-search" role="search">
+          <label>
+            <span>Поиск по сайту</span>
+            <input id="global-search" type="search" placeholder="Введите проект, город или регион" autocomplete="off">
+          </label>
+          <div id="search-results" class="search-results site-search-results"></div>
+        </form>
+        <button class="sidebar-toggle" type="button" aria-label="Открыть или закрыть левое меню" aria-expanded="true" data-sidebar-toggle>
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </header>
+
+      <section class="project-header">
+        <div>
+          <p class="eyebrow">Открытый проект</p>
+          <h2 id="active-project-title">Проект</h2>
+          <p id="active-project-meta" class="muted">Разделы анализа открываются слева.</p>
+        </div>
+        <div class="header-stats">
+          <article>
+            <span>Разделы</span>
+            <strong id="stat-sections">0</strong>
+          </article>
+          <article>
+            <span>Климат</span>
+            <strong id="stat-weather">0</strong>
+          </article>
+          <article>
+            <span>Формат</span>
+            <strong>ТКП</strong>
+          </article>
+        </div>
+      </section>
+      <section id="section-output" class="section-output"></section>
+    </section>
+  </main>
+
+  <template id="empty-template">
+    <section class="empty-state">
+      <h2>Проект не выбран</h2>
+      <p>Вернитесь к списку проектов и откройте нужный анализ.</p>
+    </section>
+  </template>
+
+  <script src="./map-config.js"></script>
+  <script src="./app.js"></script>
+  <script src="./app-2gis-overrides.js"></script>
+</body>
+</html>
