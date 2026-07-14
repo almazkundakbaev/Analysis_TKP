@@ -1,0 +1,7 @@
+# Accidental nested repository copy; keep it local and out of deployments.
+-/
+
+# Local runtime artifacts.
+__pycache__/
+*.pyc
+.codex-server-*.log
