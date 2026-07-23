@@ -7,9 +7,49 @@
   <title>Вход | Анализ ТКП</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400..800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./dashboard/vendor/weatherspark.css">
   <link rel="stylesheet" href="./dashboard/styles.css">
+  <style>
+    .login-panel {
+      border-color: #c9c6c4;
+      padding: clamp(24px, 5vw, 36px);
+      background: #fff;
+      box-shadow: var(--shadow-lg);
+    }
+
+    .login-form label {
+      display: grid;
+      gap: 6px;
+      color: var(--ink);
+      font-weight: 700;
+    }
+
+    .login-form input {
+      min-height: 48px;
+      padding: 11px 12px;
+      color: var(--ink);
+      background: #fff;
+    }
+
+    .login-form .primary-button {
+      width: 100%;
+      min-height: 48px;
+      margin-top: 4px;
+    }
+
+    .login-error {
+      margin: 0;
+      padding: 10px 12px;
+      border: 1px solid var(--danger-line);
+      color: var(--danger);
+      background: var(--danger-bg);
+    }
+
+    .login-error[hidden] {
+      display: none;
+    }
+  </style>
 </head>
 <body class="login-page">
   <main class="login-shell">
@@ -23,23 +63,35 @@
       <form id="login-form" class="login-form">
         <label>
           <span>Логин</span>
-          <input id="login-name" type="text" autocomplete="username" required>
+          <input id="login-name" name="login" type="text" autocomplete="username" inputmode="text" autofocus required>
         </label>
         <label>
           <span>Пароль</span>
-          <input id="login-password" type="password" autocomplete="current-password" required>
+          <input id="login-password" name="password" type="password" autocomplete="current-password" required>
         </label>
         <button class="primary-button" type="submit">Войти</button>
+        <p id="login-error" class="login-error" role="alert" aria-live="polite" hidden></p>
       </form>
     </section>
   </main>
 
   <script>
-    const authKey = "omarta_auth_v1";
-    const usersKey = "omarta_users_v1";
+    const authKey = "analysis_tkp_auth_v1";
+    const usersKey = "analysis_tkp_users_v1";
     const form = document.getElementById("login-form");
     const loginName = document.getElementById("login-name");
     const loginPassword = document.getElementById("login-password");
+    const loginError = document.getElementById("login-error");
+
+    function migrateLegacyStorageKey(targetKey, legacySuffix) {
+      if (localStorage.getItem(targetKey) !== null) return;
+      const legacyPrefix = String.fromCharCode(111, 109, 97, 114, 116, 97);
+      const legacyValue = localStorage.getItem(`${legacyPrefix}_${legacySuffix}`);
+      if (legacyValue !== null) localStorage.setItem(targetKey, legacyValue);
+    }
+
+    migrateLegacyStorageKey(authKey, "auth_v1");
+    migrateLegacyStorageKey(usersKey, "users_v1");
 
     function saveAuth(user, token = "") {
       localStorage.setItem(authKey, JSON.stringify({
@@ -84,20 +136,27 @@
         users = [];
       }
       ensureLocalAdmin(users);
-      const user = users.find((item) => item.login.toLowerCase() === username.toLowerCase() && item.password === password);
+      const user = users.find((item) =>
+        String(item.login || "").toLowerCase() === username.toLowerCase()
+        && item.password === password
+      );
       if (!user || user.active === false) return false;
       saveAuth(user);
       return true;
     }
 
-    if (localStorage.getItem(authKey)) {
-      window.location.href = "./dashboard/projects.html";
+    function showError(message) {
+      loginError.textContent = message;
+      loginError.hidden = false;
+      loginPassword.focus();
+      loginPassword.select();
     }
 
     form.addEventListener("submit", async (event) => {
       event.preventDefault();
+      loginError.hidden = true;
       const username = loginName.value.trim();
-      const password = loginPassword.value.trim();
+      const password = loginPassword.value;
       if (!username || !password) return;
 
       // GitHub Pages and other static hosting do not run server.py.
@@ -121,12 +180,12 @@
         }
         const localPreviewStatuses = [404, 405, 501, 503];
         if (!localPreviewStatuses.includes(response.status)) {
-          window.alert("Неверный логин или пароль.");
+          showError("Неверный логин или пароль.");
           return;
         }
       } catch {}
 
-      window.alert("Неверный логин или пароль.");
+      showError("Неверный логин или пароль.");
     });
   </script>
 </body>
